@@ -1,166 +1,222 @@
 date,url,tweet_id,fullname,user_id,text,hashtags,likes,retweets,location
-Fri Jun 04 07:19:30 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9900>,1400713809027907586,carolecadwalla,Carole Cadwalladr,I don’t know how many ways there are of saying this but listen to the scientists. We are at another critical moment… https://t.co/igvRgtitd4,[],8108,2998,
-Fri Jun 04 05:00:49 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9970>,1400678907192414211,CREWcrew,Citizens for Ethics,"AT&amp;T, Pfizer, Jetblue, and Toyota are just four of the at least 170 businesses with PACs that have started to back… https://t.co/gXAIekCdk4",[],731,770,"Washington, D.C."
-Fri Jun 04 10:16:40 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be99e0>,1400758391631384577,katesilverton,Kate Silverton,My Question: How can we know it is ‘safe and effective’ for children when there is no long term safety data ?  UK a… https://t.co/top76CJeJR,[],2492,826,London
-Fri Jun 04 18:46:05 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9a50>,1400886594052177925,harley_carter1,Andy,RT @LynnBrittney2: UK medicines regulator has approved the use of Pfizer vax in 12 year olds and above. They say 'the benefits outweigh the…,[],0,127,
-Fri Jun 04 18:46:03 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9ac0>,1400886582455017482,gkrad9,Greg #RealClimateActionNow #ZeroCOVID19Canada,RT @TorontoStar: NEW from @robferguson1: Ontario is accelerating its COVID-19 vaccine schedule to make second doses of Pfizer and Moderna a…,[],0,5,"Richmond Hill, Ontario"
-Fri Jun 04 18:46:02 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9b30>,1400886579825053696,mindlessissad,Being mindless is sad,RT @RuthDra19656712: @mindlessissad @naomirwolf @annybeav @Lisagilinsky I had my last period around 4 years ago. Went to visit a couple who…,[],0,1,North America
-Fri Jun 04 18:46:00 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9ba0>,1400886571851714565,JaniceKayePhD,"Janice Kaye, PhD",RT @CAMHnews: We are also accepting 2nd dose appointments for anyone 70+ who received a first dose of Pfizer even if they did not receive t…,[],0,4,
-Fri Jun 04 18:46:00 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9c10>,1400886570060697600,vistamiddle,🤠Vista Middle School & Magnets 🧲,💫Exciting day! Vista administering Pfizer Covid-19 vaccines today!! 🙌 ✅ @mspdamonte @VistaMagnets @LDNESchools… https://t.co/rxHu3n0iaz,[],0,0,"Panorama City, California"
-Fri Jun 04 18:45:56 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9c80>,1400886554093133829,ChristineRHunt,Christine Hunt,"RT @AnitaOakville: 📢Pfizer has confirmed that 🇨🇦 will continue to receive over 2M doses every week through end of Aug.📢
+Fri Jun 04 18:46:16 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18d5f0>,1400886637714829313,manthan_rai3,Manthan Rai,"@Google @GoogleIndia My entire Google Account got suspended yesterday without giving any warning or information, I… https://t.co/8nSz4OyxWR",[],0,0,"Mangalore, India"
+Fri Jun 04 18:38:18 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18d660>,1400884631747141637,Radhakrishn2023,Devotee of Shri Radha & Krishna,"RT @Raadhakrishn: #RadhaKrishn Episode 695
+Season 4 Epi 163
 
-➡️All 51M doses of…",[],0,59,Mount Albert Canada
-Fri Jun 04 18:45:53 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9cf0>,1400886541363429377,67000milesph,67000milesph,RT @LynnBrittney2: UK medicines regulator has approved the use of Pfizer vax in 12 year olds and above. They say 'the benefits outweigh the…,[],0,127,At the Beach
-Fri Jun 04 18:45:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9d60>,1400886538565730307,liamhc,Liam Cunningham,"RT @DailyCaller: India Buys 300,000,000 Doses Of Unapproved, Unnamed COVID-19 Vaccine https://t.co/qD9D7Y3fev",[],0,3,Toronto
-Fri Jun 04 18:45:50 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9dd0>,1400886528591728648,tmackay68,Tracey Mackay,"RT @LeithDunick: Province says if you had your first mRNA dose (Pfizer, Moderna) before April 18, you can book an accelerated second dose s…",[],0,4,"Thunder Bay, Ontario"
-Fri Jun 04 18:45:48 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9e40>,1400886520953847810,myselfandlouie,Louis Fernandes,@SecretsBedard @JasonMillerinDC @generalkellogg @A1Policy What plan? What about Pfizer ?,[],0,0,"Mayo, Ireland"
-Fri Jun 04 18:45:46 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9eb0>,1400886514733756424,Maga_Manila,Marisol (Proud deplorable),"RT @DailyCaller: India Buys 300,000,000 Doses Of Unapproved, Unnamed COVID-19 Vaccine https://t.co/qD9D7Y3fev",[],0,3,
-Fri Jun 04 18:45:45 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9f20>,1400886508626849801,CarlyBenz1,CarlyB,"RT @thebentaytay: May your tech bros respect you
-Covid neglect you
-Pfizer protect you
-And hot girl summer accept you",[],0,210,
-Fri Jun 04 18:45:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9f90>,1400886506168852480,rose_goldenberg,Rose Goldenberg,@DavidBlue @ChrisGorham @pfizer Can’t wait til I can get my almost 6 year old vaccinated. Waiting patiently for the… https://t.co/tdvjZCVhGO,[],0,0,"Sacramento, CA"
-Fri Jun 04 18:45:43 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb040>,1400886501681074183,Superspreader16,Truth Teller,"RT @NewtonClarkeUK: After six months of vaccine rollout, BBC presenter suddenly comes down with a case of inquisitiveness.
+Krishn narrates Alakshmi past.
+During samudra manthan lakshmi came out.
+She wa…",['RadhaKrishn'],0,3,
+Fri Jun 04 18:14:22 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18d6d0>,1400878611175936000,manthan_rai3,Manthan Rai,@Google @Google @GoogleIndia My entire Google Account got suspended yesterday without getting any warning or inform… https://t.co/untfgu3M48,[],1,0,"Mangalore, India"
+Fri Jun 04 18:04:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18d740>,1400876032157048838,KumarBpscl,ANIL KUMAR,"@samarjeet_n Today I watched the Shyam Benegal's 1976 national awardee film ""MANTHAN"".",[],0,0,Ghaziabad and Bokaro St. city
+Fri Jun 04 17:57:31 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18d7b0>,1400874368624861184,KumarBpscl,ANIL KUMAR,Please see the 1976 film MANTHAN (Shyam Benegal) for reference.,[],0,0,Ghaziabad and Bokaro St. city
+Fri Jun 04 16:59:30 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18d820>,1400859768370069504,Iam_Madhava,Madhava Dameragidda,RT @ras906359: “Prithvi Manthan- the 2nd Churning” by @susmitamituDas released on #WorldEnvironmentDay2021 A powerful narrative reminding u…,['WorldEnvironmentDay2021'],0,1,
+Fri Jun 04 16:51:29 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18d890>,1400857753153773568,ras906359,SK Joshi,“Prithvi Manthan- the 2nd Churning” by @susmitamituDas released on #WorldEnvironmentDay2021 A powerful narrative re… https://t.co/oiYYdEgcSt,['WorldEnvironmentDay2021'],5,1,hyderabad
+Fri Jun 04 16:23:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18d900>,1400850770178633733,Anu_Lv_55,🐥~ KrishnSree ~,"RT @Raadhakrishn: #RadhaKrishn Episode 695
+Season 4 Epi 163
 
-#COVID19 #Vacci…",['COVID19'],0,60,London 🇬🇧 
-Fri Jun 04 18:45:43 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb0b0>,1400886501551099909,Celestite66,Jen🔥🐎🌞♍️🌛♒️⬆️♎️,"RT @TheRustler83: @MHRAgovuk #Safe for Children ?🤷🏻‍♂️?
+Krishn narrates Alakshmi past.
+During samudra manthan lakshmi came out.
+She wa…",['RadhaKrishn'],0,3,RADHA-KRISHN KI HRIDAY 💙
+Fri Jun 04 16:15:51 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18d970>,1400848785551491074,swarnima_yadav3,💛sumedhian _swara💛,"RT @Raadhakrishn: #RadhaKrishn Episode 695
+Season 4 Epi 163
 
-#ASTRAZENECA
-Reactions 695,214
-Deaths 831 (+25)
-Blood clot death 61 (+2)
+Krishn narrates Alakshmi past.
+During samudra manthan lakshmi came out.
+She wa…",['RadhaKrishn'],0,3,A sunflower in sumedh's garden
+Fri Jun 04 15:51:04 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18d9e0>,1400842549074427904,Raadhakrishn,RADHA KRISHN,"#RadhaKrishn Episode 695
+Season 4 Epi 163
 
-#PFIZER…","['Safe', 'ASTRAZENECA', 'PFIZER']",0,1,UK
-Fri Jun 04 18:45:43 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb120>,1400886498673807362,surreydemocrat,surreydemocrat 🐑 🌸 #UsforThem,"RT @CovidBlindWife: It’s guaranteed that more kids will die of this than Covid.
+Krishn narrates Alakshmi past.
+During samudra manthan lakshmi came out.… https://t.co/Mdwvlt2wiF",['RadhaKrishn'],23,3,
+Fri Jun 04 15:42:49 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18da50>,1400840473778954242,iyogeshshr_hp,Yogesh Sharma 🇮🇳,"Interpretation of the audiovisual ""Pruthvi Manthan""
 
-UK approves Pfizer jab for use in 12-15-year-olds https://…",[],0,112,"South East, England"
-Fri Jun 04 18:45:41 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb190>,1400886492596146178,Laudieda2,Laudieda,"RT @DFisman: Important: German data on ChAd/ChAd (AZ/AZ) vs. ChAd/BNT (AZ/Pfizer) vaccine regimens.
+The woman and child represent human race (current and future g… https://t.co/hN61yXshNq",[],2,0,"Himachal Pradesh, India"
+Fri Jun 04 15:42:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18dac0>,1400840295579676676,borad_manthan,Manthan Patel,"RT @Abhishekkar_: “Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.” – Zig Ziglar",[],0,53,"Surat, India"
+Fri Jun 04 15:15:19 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18db30>,1400833551247896576,somnath_suna,Somnath suna,"RT @susmitamitudas: 👉https://t.co/Nl5OhguBUc👈
+""PRITHVI MANTHAN""-The thrilling #Shiv Tandav based music video🎶 that blends ancient Hindu myt…",['Shiv'],0,0,"odisha , jharsuguda."
+Fri Jun 04 15:15:11 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18dba0>,1400833517513183232,somnath_suna,Somnath suna,"RT @susmitamitudas: 👉https://t.co/Nl5OhguBUc👈
+PRITHVI MANTHAN is an impactful musical depiction🎶 of the heart-wrenching state of Earth.🌎 It…",[],0,1,"odisha , jharsuguda."
+Fri Jun 04 15:15:05 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18dc10>,1400833491571331074,somnath_suna,Somnath suna,"RT @susmitamitudas: 👉https://t.co/Nl5OhguBUc👈
+Really grateful to all for spreading the message about pollution &amp; climate change with 🎶PRITH…",[],0,1,"odisha , jharsuguda."
+Fri Jun 04 15:06:14 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18dc80>,1400831263473209352,bhaktbaba,Gaurav Gupta,@SumitkadeI No one agrees with you Sumit Bhai...Need to do aatma-manthan,[],0,0,India
+Fri Jun 04 14:58:37 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18dcf0>,1400829347548762116,Manthan_78,MC Says CHAMPIONS OF EUROPE 🏆🏆⭐️⭐️,"RT @klobrille: The upcoming week🤯
 
-TLDR: AZ/Pfizer regimen blows the door…",[],0,214,"Ontario, Canada"
-Fri Jun 04 18:45:41 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb200>,1400886491295801349,Rathoremankesh,मनकेश बन्ना,"RT @totalwoke: Dear liberals, now that #Vaccine supply is improving sharply, what should be our new #Toolkit
+- Monday Apple WWDC
+- Wednesday Loki on Disney+, Battlefield 6 Reveal
+- Thursday Summer Game Fest Live
+-…",[],0,132,"London, England"
+Fri Jun 04 14:24:46 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18dd60>,1400820830137815045,Sumellikan_pari,RadhaKrishn_premi_pari,"RT @Radhakrishn_123: Today samudra manthan is going to show in #rk so excited❣️❣️
+#sumellikaforever
+@Sumellikan_pari 
+@Anu_Radheshyam 
+@sum…","['rk', 'sumellikaforever']",0,1,
+Fri Jun 04 14:23:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18ddd0>,1400820517473378311,susmitamitudas,Susmita Das,"👉https://t.co/Nl5OhguBUc👈
+Really grateful to all for spreading the message about pollution &amp; climate change with 🎶P… https://t.co/EFDaRGy8KB",[],1,1,"Bhubaneshwar, India"
+Fri Jun 04 14:23:23 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18de40>,1400820479837888513,PrachodayatLive,Prachodayat.in,कृष्टि ओजस | (ऋग्वेद) – Increase your vigor(ओजस) to such a level that your enemies will get attracted (कृष्टि) towa… https://t.co/o4I3ANDGca,[],1,0,
+Fri Jun 04 14:22:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18deb0>,1400820295380860937,susmitamitudas,Susmita Das,"👉https://t.co/Nl5OhguBUc👈
+PRITHVI MANTHAN is an impactful musical depiction🎶 of the heart-wrenching state of Earth.… https://t.co/Yb7v6C5biK",[],1,1,"Bhubaneshwar, India"
+Fri Jun 04 14:17:34 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18df20>,1400819019616165888,manthan_gangan,Manthan Gangan,"RT @DrGodseRavi1: .@POTUS If USA wants to help the world, send all vaccine doses to India. Recovered India can manufacture vaccines for the…",[],0,286,
+Fri Jun 04 13:52:25 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d18df90>,1400812687332806657,bexxmodd,"Beka ""Bexx"" Modebade","RT @ManCorpLabs: Estonia is one of the first countries to adopt #AI in Court operations. India has joined this league too with #SUPACE, an…","['AI', 'SUPACE']",0,6,"Maryland, USA"
+Fri Jun 04 13:01:14 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0040>,1400799809309601797,kamlesm,g katyan misra,"RT @kamlesm: Shiv with Ascetic- as titled in @metmuseum 
+shows Mount Kailash, mountains with rolling clouds frame god &amp; his 2 ascetic disci…",[],0,20,Port Blair
+Fri Jun 04 12:30:23 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a00b0>,1400792045027876867,neha8192,Neha Khandelwal,@initinmgupta @utkarshnaithani sirjis..u hav told us the tale of Shanidev..Garuda also..during Samudra manthan amri… https://t.co/35FBnLmIL1,[],0,0,
+Fri Jun 04 12:30:01 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0120>,1400791950618509313,ZaranTech,ZaranTech,I just uploaded “Final 13 2 6 - Workday Data Gathering Training - May 2021 Batch - Trainer Manthan - Session.mp4�… https://t.co/5ccvLEGbBk,[],0,0,"West Des Moines, IA"
+Fri Jun 04 11:49:01 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0190>,1400781633603637257,Manthan_78,MC Says CHAMPIONS OF EUROPE 🏆🏆⭐️⭐️,RT @ChelseaFC: Contract extension to June 2024 for Thomas Tuchel. 👇💙,[],0,11328,"London, England"
+Fri Jun 04 11:10:14 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0200>,1400771873110102019,dev_discourse,Devdiscourse,UN-backed music video on Pollution and Environment 'Prithvi Manthan' - The 2nd Churning https://t.co/ZctIo1aywU,[],1,1,National Capital Region
+Fri Jun 04 11:00:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0270>,1400769398927994880,ZaranTech,ZaranTech,I just uploaded “Final 5 2 Workday Integration studio Training - May 2021 - Trainer Manthan - Session.mp4” to #… https://t.co/Erx7bOnM2E,[],0,0,"West Des Moines, IA"
+Fri Jun 04 09:40:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a02e0>,1400749313697869824,Radhakrishn2023,Devotee of Shri Radha & Krishna,@Radhakrishn_123 @Sumellikan_pari @Anu_Radheshyam @sumedhianKinara @RiyaSumellikan @Mahek59340868 @rk_lover_satya… https://t.co/MJ6k8QQ3CQ,[],5,0,
+Fri Jun 04 09:38:40 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0350>,1400748829515857926,dreamer_11816,Sirii_🦋,"RT @sidharth_shukla: It was lovely to have been a part of #Manthan2020 here in Delhi. Thank you @news24tvchannel for having me!
+.
+.
+.
+@anur…",['Manthan2020'],0,9921,India
+Fri Jun 04 09:02:16 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a03c0>,1400739668967055369,crudeperception,VARON G,"RT @MahabaliPeru: @HinduAmerican Stop these lies. 
 
-1 Are vaccines safe?
-2 We wan…","['Vaccine', 'Toolkit']",0,209, राजपुताना ⚔️🇮🇳🚩
-Fri Jun 04 18:45:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb270>,1400886481959501830,JohnBen37872668,John Benjamin,"RT @CBCOttawa: NEW: As of Monday at 8 a.m., Ontario residents 70+ and everyone who received an mRNA #COVID19 vaccine (Pfizer or Moderna) on…",['COVID19'],0,46,"Ottawa, Ontario"
-Fri Jun 04 18:45:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb2e0>,1400886481531572233,enn_nafnlaus,Nafnlaus,"@rmattila74 There's not a big difference between AZ and Pfizer with respect to Delta (like there is with Beta), at… https://t.co/xOPpqNNR9D",[],0,0,Á klakanum
-Fri Jun 04 18:45:38 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb350>,1400886479342211079,CMillz,cmil,"RT @DFisman: Important: German data on ChAd/ChAd (AZ/AZ) vs. ChAd/BNT (AZ/Pfizer) vaccine regimens.
+HariHara means who is worshipped by both Vaishnavites (Hari) n Shaivites (Hara)
 
-TLDR: AZ/Pfizer regimen blows the door…",[],0,214,Toronto
-Fri Jun 04 18:45:38 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb3c0>,1400886477295276032,9999tarakram,Melody,"RT @DrJoyeeta: The Medicines and Healthcare products Regulatory Agency has approved the Pfizer Vaccine for 12 to 15 year olds in UK. 
-Who a…",[],0,15,"Hyderabad, India"
-Fri Jun 04 18:45:37 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb430>,1400886475412082689,TricksyRaccoon,Meg Ruttan Walker,RT @vidman: Frederick Mall pharmacy in Kitchener is taking appointments for FIRST DOSE shots of Pfizer today and Saturday according to thei…,[],0,2,Haldimand Tract
-Fri Jun 04 18:45:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb4a0>,1400886466696318982,sandrine_bil,Sandrine Baggins ❤️🧙‍♀️🌟🔮,RT @PoliticsPollss: The UK's medicines regulator has approved the Pfizer/BioNTech coronavirus vaccine for 12 to 15-year-olds. Do you think…,[],0,47,"Dundee, Scotland"
-Fri Jun 04 18:45:33 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb510>,1400886458471399424,YourCaledon,Your Caledon,"RT @regionofpeel: Great news! Starting June 7 at 8 a.m., residents aged 70+ in 2021, and anyone who received their first dose of Pfizer or…",[],0,10,"Caledon, Ontario"
-Fri Jun 04 18:45:30 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb580>,1400886447117320205,GoodDayShine,SunshineDay,"RT @FinancialTimes: People most vulnerable to Covid-19 could require a booster BioNTech/Pfizer vaccine later this year, according to scient…",[],0,567,Cali
-Fri Jun 04 18:45:30 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb5f0>,1400886445716430857,SallyFereday,Sally Fereday CFIRM,"RT @DrZoeHyde: Study of 36 people with long COVID. 8 months after hospitalisation, participants had a median of 4 symptoms (159 total sympt…",[],0,101,London
-Fri Jun 04 18:45:28 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb660>,1400886439122984963,HappyTigah,TheBeardedCouyon,RT @drgauravchandra: Levels of neutralizing antibodies in recipients of BioNTech/Pfizer vaccine five times LOWER against the DELTA VARIANT…,[],0,129,Texas
-Fri Jun 04 18:45:25 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb6d0>,1400886425009242119,lisamaria2k4,Lisa Gittens 🇧🇧🇨🇦🕊,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,"Toronto, Ontario"
-Fri Jun 04 18:45:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb740>,1400886421007876102,AxelsonKathy,Kathy Axelson,"RT @JasonMillerinDC: WHEN Fauci gets hauled in front of Congress, he needs to be asked - under oath - when he knew that the Pfizer vaccine…",[],0,1151,"Madison, Alabama"
-Fri Jun 04 18:45:23 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb7b0>,1400886416578580480,itfeelsinsane,Inva,"all those ppl were lying when they said that u barely feel the first pfizer shot,,,, I'm in pain lmao",[],0,0,"Wien, Österreich"
-Fri Jun 04 18:45:23 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb820>,1400886416154894338,KalanPagnucco,Kalan Pagnucco,"RT @FinancialTimes: People most vulnerable to Covid-19 could require a booster BioNTech/Pfizer vaccine later this year, according to scient…",[],0,567,
-Fri Jun 04 18:45:21 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb890>,1400886408789770241,LeeArno45192933,LeeArnold,"RT @BBGRichie: Breaking. MHRA (UK regulator) has approved the use of the Pfizer jab in 12-15 year-olds. I beg every parent in the country,…",[],0,691,
-Fri Jun 04 18:45:21 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb900>,1400886408160632836,ThrottleCharts,Throttle Charts,"RT @itsthewealth4me: Pfizer - $PFE $39.20/share
-JJ - $JNJ $166.37/share
-Moderna - $206.53/share
-Enzolytics - $ENZC .22/share
+Mohini…",[],0,6,"Haryana, India"
+Fri Jun 04 08:53:58 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0430>,1400737582464462853,ayogesh03,Yogesh Agarvadekar,"RT @MahabaliPeru: @HinduAmerican Stop these lies. 
 
-Only one of t…",[],0,2,"Amsterdam, The Netherlands"
-Fri Jun 04 18:45:17 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb970>,1400886390032904194,HealthInsider,Healthcare Insider,"RT @drcatherinesb: More evidence both doses of Pfizer's two-dose vaccine could be ""critical"" to protecting against variants @HealthInsider…",[],0,2,
-Fri Jun 04 18:45:17 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb9e0>,1400886389298896907,_RavenBranwen_,💖💛💙 Blake (she/they)🌹🍋🍓 🐝,"Well, fuck. My vaccine was Pfizer. 
+HariHara means who is worshipped by both Vaishnavites (Hari) n Shaivites (Hara)
 
-""Pfizer-BioNTech vaccine elicits weaker antibody response against Delta varian… https://t.co/lYCy8lTvEx",[],0,0,"In your head, rent-free! 💜"
-Fri Jun 04 18:45:16 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcba50>,1400886387381989378,MopsyandJemima,Liz,"RT @Stella4Menzies: So who in the government made the decision to buy so many millions of doses of the Astra Zeneca vaccine, and so few of…",[],0,311,
-Fri Jun 04 18:45:14 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbac0>,1400886378586542080,effies,Effie Seiberg wants you to get vaxxed/wear a mask,"RT @CNBCJulianna: 💉NEW: #Pfizer vaccine elicits weaker antibody response against Delta variant first found in India, acc to new study. Neut…",['Pfizer'],0,501,Bay Area CA
-Fri Jun 04 18:45:13 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbb30>,1400886372320284674,VaxHuntersCan,Vaccine Hunters Canada,"[ON] 🎉 CAMBRIDGE 🎉
-💉 1st DOSE: 12+
-💉 2nd DOSE: 70+
-🗺️ Shoppers Drug Mart: 1500 King St. E, Cambridge ON N3H 3R5
-⭐ 6… https://t.co/pmsEzWI4dI",[],1,0,Canada
-Fri Jun 04 18:45:11 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbba0>,1400886366741823488,sameer3946,sameer mohammad,RT @drshamamohd: The BJP govt is ordering 30 crore doses of Biological E’s Covid-19 vaccine even though it hasn't received regulatory appro…,[],0,379,
-Fri Jun 04 18:45:09 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbc10>,1400886359531921410,Dudette9t9,Dudette Wears A 😷 💛🐝,"RT @FinancialTimes: People most vulnerable to Covid-19 could require a booster BioNTech/Pfizer vaccine later this year, according to scient…",[],0,567,
-Fri Jun 04 18:45:08 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbc80>,1400886353592782849,Peter_1888,Peter White,RT @DrFrancesRyan: Every anti-vaxxer should watch parents of clinically vulnerable teenagers weeping with relief at the Pfizer news that th…,[],0,62,"England, United Kingdom"
-Fri Jun 04 18:45:08 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbcf0>,1400886352254746625,mygrandmotherma,Sandi Adams,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,"Long Sault, ON"
-Fri Jun 04 18:45:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbd60>,1400886350958764038,gail_sloane,Gail Sloane RN. BScN. MHSc. MEd. Cand.,RT @Dan_GT2: After just watching Minister @AnitaOakville thank Pfizer for its cooperation with the federal government is it really a surpri…,[],0,28,"Halifax, Nova Scotia"
-Fri Jun 04 18:45:06 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbdd0>,1400886346500038657,CoronaUpdateBot,Corona Update Bot,"RT @DailyCaller: India Buys 300,000,000 Doses Of Unapproved, Unnamed COVID-19 Vaccine https://t.co/qD9D7Y3fev",[],0,3,
-Fri Jun 04 18:45:05 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbe40>,1400886339445219330,EsselLeroy,Leroy James Essel,RT @thehill: 7 US teens report heart inflammation after second Pfizer dose: Study https://t.co/ypk2FfnNjM https://t.co/u6oKhezSYi,[],0,25,
-Fri Jun 04 18:45:03 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbeb0>,1400886333493678093,poandpo,POST Online Media,UK approves Pfizer/BioNTech Covid-19 jab for use in 12 to 15-year-olds https://t.co/RwLTlsZ4h0 #Health… https://t.co/84wdnPyDKJ,['Health'],0,0,World
-Fri Jun 04 18:45:02 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbf20>,1400886327273562113,SNPareDuff,GJ 🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿,@VictoryDay_Hope @Max46023367 Fauci you say. The man who said our regulators were too quick approving Pfizer and Am… https://t.co/QxChradR3O,[],0,0,"London, England"
-Fri Jun 04 18:45:02 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbf90>,1400886326430404609,leismarie,Leis Marie,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,"Ontario, Canada"
-Fri Jun 04 18:45:01 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6040>,1400886325478268928,RMellawa,Ranjan Mellawa,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,Sri Lanka
-Fri Jun 04 18:45:01 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc60b0>,1400886322747920389,DailyCaller,Daily Caller,"India Buys 300,000,000 Doses Of Unapproved, Unnamed COVID-19 Vaccine https://t.co/qD9D7Y3fev",[],3,3,"Washington, DC"
-Fri Jun 04 18:44:59 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6120>,1400886316678541312,effies,Effie Seiberg wants you to get vaxxed/wear a mask,"RT @FinancialTimes: People most vulnerable to Covid-19 could require a booster BioNTech/Pfizer vaccine later this year, according to scient…",[],0,567,Bay Area CA
-Fri Jun 04 18:44:55 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6190>,1400886299523907585,accidentalflyer,ah* 🇨🇦🇹🇼🚀✈️ PhD 毋忘六四,@BobMasternak @RWeezy02 @Noahpinion Canada will also allow for mixing dosage https://t.co/brS0bXJNJ4,[],0,0,"San Francisco, CA"
-Fri Jun 04 18:44:54 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6200>,1400886295233282054,aManCalledG,Genji Yamaguchi,"RT @nycHealthy: Join us this weekend for food, music and activities at Youth Vax Block Parties in all five boroughs! Pfizer #COVID19 vaccin…",['COVID19'],0,46,"Manhattan, NY"
-Fri Jun 04 18:44:53 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6270>,1400886291584200708,ChandyAnil,Anil,"RT @AbyChackoNgp: For Delta Variant, Need Shorter Gap Between Vaccine Doses: Lancet Study
+Mohini…",[],0,6,
+Fri Jun 04 08:53:28 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a04a0>,1400737453833539586,BKShilpaa,BKShilpa,"Follow Shrimat
+#English_Murli_Manthan
+Watch &amp; Subscribe
+https://t.co/kLrle5Ym5x",['English_Murli_Manthan'],2,0,"New Delhi, India"
+Fri Jun 04 08:53:19 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0510>,1400737419717058564,iqarena_in,IQarena,Invention is the beginning of a bright future. IQarena is overjoyed to announce our IQstars of 10th Science Gujarat… https://t.co/gXdf14BCrT,[],0,0,Ahmedabad
+Fri Jun 04 08:36:34 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0580>,1400733201455226882,malarkkan,nalini malarkkan,RT @Iamarfat9: Only BJP can do this kind of act in this time of crisis. PM Modi and Home Minister Amit Shah have got time for election mega…,[],0,19,Chennai
+Fri Jun 04 08:33:36 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a05f0>,1400732457679216641,sandeepmohan358,Sandeep Mohan Badole,"RT @Manthan_India: The extraordinary Prof Christophe Jaffrelot, @jaffrelotc, speaks @Manthan_India on “LESSONS OF THE EMERGENCY FOR TODAY’S…",[],0,3,Maharashtra. London.
+Fri Jun 04 08:30:45 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0660>,1400731739211788289,Prashan60938632,Prashanth,"RT @MahabaliPeru: @HinduAmerican Stop these lies. 
 
-So what will now happen to 12-16 week gap adviso…",[],0,20,"Accra, Ghana"
-Fri Jun 04 18:44:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc62e0>,1400886285120675840,Crestshire,Crestshire,@StephenSeanFord Agreed. I had Pfizer and #2 was the hardest. Get better.,[],0,0,
-Fri Jun 04 18:44:51 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6350>,1400886280473481222,Trrymc,Terry 🖐🏼☝🏼,"RT @fergalkiernan: Changing your name to 
-Pfizer Vaccine? https://t.co/GQIpMNLu4N",[],0,113,"Liverpool, England"
-Fri Jun 04 18:44:46 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc63c0>,1400886260051451910,dykehalfbaked,CB😷,RT @thehill: 7 US teens report heart inflammation after second Pfizer dose: Study https://t.co/ypk2FfnNjM https://t.co/u6oKhezSYi,[],0,25,House Arrest 2020
-Fri Jun 04 18:44:45 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6430>,1400886257572405249,rose_goldenberg,Rose Goldenberg,RT @ChrisGorham: Our 12 year old got her second @pfizer vaccine today! All five of us now vaccinated and just 14 days from full immunity. H…,[],0,3,"Sacramento, CA"
-Fri Jun 04 18:44:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc64a0>,1400886253281816579,SallyFereday,Sally Fereday CFIRM,"RT @CrabbBrendan: Main message for 🇦🇺 is to get vaccinated if at all possible. Both AZ and Pfizer work against the Delta variant, not quite…",[],0,462,London
-Fri Jun 04 18:44:43 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6510>,1400886247116128259,darcysarazin,darc darc,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,
-Fri Jun 04 18:44:42 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6580>,1400886243148189698,bforst,Brian Forst,"RT @DFisman: Important: German data on ChAd/ChAd (AZ/AZ) vs. ChAd/BNT (AZ/Pfizer) vaccine regimens.
+HariHara means who is worshipped by both Vaishnavites (Hari) n Shaivites (Hara)
 
-TLDR: AZ/Pfizer regimen blows the door…",[],0,214,"Edmonton, AB"
-Fri Jun 04 18:44:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc65f0>,1400886232813477893,signsaresaying,Disinfect Democracy - Humanity depends on it.,"RT @CameronAhmad: Vaccine update:
+Mohini…",[],0,6,"Bengaluru South, India"
+Fri Jun 04 07:53:28 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a06d0>,1400722355547148289,TwiterHero,TwiterHero,.Manthan Patel is following me now on Twitter! Thanks ! https://t.co/f7rkmR8qrF Ready for your #follow too #FF #follo ifb,"['follow', 'FF', 'follo']",1,0,"Chicago, Il US"
+Fri Jun 04 07:23:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0740>,1400714719103635458,SinghVi28929133,Singh Vinay,"RT @djjsmanthansvk: In a series of organising grooming workshop for the teachers and volunteers, Manthan Sampoorn Vikas Kendra conducted #V…",[],0,10,
+Fri Jun 04 07:03:56 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a07b0>,1400709891862372358,SDM63901816,SDM,RT @SunilSh77161779: @mediamanthan_ @ashokgehlot51 @GovindDotasra @DrBDKallaINC @Barmer_Harish @PSKhachariyawas @artizzzz @_lokeshsharma @R…,[],0,4,
+Fri Jun 04 06:50:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0820>,1400706518668824576,manthan_singhvi,manthan,@anijde1 Why does it feel good if you don’t care about it or them😂,[],1,0,"Mumbai, India"
+Fri Jun 04 06:49:49 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0890>,1400706339173650438,manthan_singhvi,manthan,@lamhitaalalwani My demon is the guy who always orders burgers post 12 am to fuck up my body,[],1,0,"Mumbai, India"
+Fri Jun 04 06:48:36 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0900>,1400706030707773443,FlutterMars,Flutter Mars,"@Devan3096V @BanuMohan8 @megutweetz We used to have a small group of RSS associated people called Manthan in TIFR,… https://t.co/9CHuRnokyD",[],1,0,
+Fri Jun 04 06:22:36 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0970>,1400699490684661763,Kiran_k_1989,Kiran,"RT @Manthan_India: The extraordinary Prof Christophe Jaffrelot, @jaffrelotc, speaks @Manthan_India on “LESSONS OF THE EMERGENCY FOR TODAY’S…",[],0,3,"Kodungallur, India"
+Fri Jun 04 06:20:23 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a09e0>,1400698932263538690,jaffrelotc,Jaffrelot Christophe,"RT @Manthan_India: The extraordinary Prof Christophe Jaffrelot, @jaffrelotc, speaks @Manthan_India on “LESSONS OF THE EMERGENCY FOR TODAY’S…",[],0,3,
+Fri Jun 04 06:11:47 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0a50>,1400696765167198218,sanjariharia98,Sanjari Haria,I reheard the Amul Manthan and immediately thought of the short film that depicted these above mentioned facts. Wen… https://t.co/ag8moNM5NC,[],4,0,"Mumbai, India"
+Fri Jun 04 06:11:40 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0ac0>,1400696738957062146,sanjariharia98,Sanjari Haria,"This short film spoke about how Amul came into existence. And in the 20 odd years that I did keep singing ""Amul doo… https://t.co/Y5qWS7tGPN",[],8,0,"Mumbai, India"
+Fri Jun 04 06:10:48 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0b30>,1400696519892758535,Manthan_India,Manthan,"The extraordinary Prof Christophe Jaffrelot, @jaffrelotc, speaks @Manthan_India on “LESSONS OF THE EMERGENCY FOR TO… https://t.co/74z2mKLVIc",[],9,3,"Hyderabad, India"
+Fri Jun 04 06:04:25 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0ba0>,1400694914606768134,singhramakant57,Author Raghav Chauhan,Kevein Books and Reviews: Book Review: Jeevan Manthan – A Rise of Inspiratio... https://t.co/F6r48rF93Z,[],1,0,Haridwar 
+Fri Jun 04 05:40:17 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0c10>,1400688840969375745,shree1082002,shree1082002,"RT @MahabaliPeru: @HinduAmerican Stop these lies. 
 
-➡️ 2 million Pfizer doses per week until end of August
-➡️ 9+ million doses in July, 9.1 in August
-➡️ neg…",[],0,28,Treaty One 🇨🇦 Turtle Island
-Fri Jun 04 18:44:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6660>,1400886231781761027,AmandaSHansen,Amanda Hansen,NEW #Vaccine Update: Pfizer jab found to elicit lower antibody response to Delta variant than to original coronavir… https://t.co/mDxtnxw9NB,['Vaccine'],0,0,"South Jordan, UT"
-Fri Jun 04 18:44:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc66d0>,1400886231651819520,briasoboojie,BRIANA⁷🤎,Pfizer dolls we might need to get another shot later this year. It'll be a booster.,[],0,0,Manifesting NYC & London
-Fri Jun 04 18:44:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6740>,1400886216443240450,Julie_A_Smyth,Julie Smyth 💙,RT @carolecadwalla: I don’t know how many ways there are of saying this but listen to the scientists. We are at another critical moment. Th…,[],0,2998,
-Fri Jun 04 18:44:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc67b0>,1400886214119538692,russhopTv,Russell Hopwood,"RT @BBGRichie: Breaking. MHRA (UK regulator) has approved the use of the Pfizer jab in 12-15 year-olds. I beg every parent in the country,…",[],0,691,spain
-Fri Jun 04 18:44:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6820>,1400886213129670656,RL82031397,RL,RT @DailyExposeNews: BREAKING - U.K. approves Pfizer jab for use in children even though 86% suffered an adverse reaction ranging from mild…,[],0,243,
-Fri Jun 04 18:44:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6890>,1400886203696644096,dade_kevin,Kevin McDade,RT @RosieBarton: PM confirms Canada will receive over 2 million doses of Pfizer every week until the end of August. Govt has also optioned…,[],0,59,
-Fri Jun 04 18:44:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6900>,1400886202719293446,dlitts6,Mz. PettyBetty 🖤,"RT @thebentaytay: May your tech bros respect you
-Covid neglect you
-Pfizer protect you
-And hot girl summer accept you",[],0,210,"Oakland, CA"
-Fri Jun 04 18:44:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6970>,1400886200718790660,othersideam,Other Side Asset Management,Because the patent he shares is the technology used by Pfizer and Moderna. Incentives are a bitch. #JailFauci https://t.co/MIDiBsPH96,['JailFauci'],0,0,
-Fri Jun 04 18:44:31 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc69e0>,1400886196490833928,SaumitraChat,Saumitra Chaturvedi,@mathurapuri @sree_free @mukeshmarda @manipulatdjourn @rishisankaran @vikramchandra No it shouldn't be free. Those… https://t.co/0Cacja6dqw,[],0,0,शिव-चरण
-Fri Jun 04 18:44:28 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6a50>,1400886183782141952,GrahamWharton74,Graham Wharton,"@jellicocat1 @The_Wilf_Man @Dominique_ITV Yellow card has nothing to do with Pfizer. If there are problems,.yellow… https://t.co/IRdOLVmEqh",[],0,0,"Weymouth, Dorset"
-Fri Jun 04 18:44:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6ac0>,1400886168519118849,benjstanfield17,Ben Stanfield,"@fact_covid Where is the data to show how many of each vaccine have been administered #how may Pfizer in total , ho… https://t.co/zzWKo3plrS",['how'],0,0,
-Fri Jun 04 18:44:22 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6b30>,1400886159543259139,ly_qi,Ly Qi,"@20Andre200 @KarenShackleto5 I had bad effects with my 1st Pfizer but the 2nd was great, no problem at all.  Hope y… https://t.co/sHqUVft8Ua",[],0,0,
-Fri Jun 04 18:44:22 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6ba0>,1400886159086133250,MBMPhotography,Jodi Maxwell-Lee,@bkives this is the message we are still getting when we try to book second dose of Pfizer when our first shot was… https://t.co/Syx4MKEfiA,[],0,0,"Oakville, Manitoba CANADA"
-Fri Jun 04 18:44:21 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6c10>,1400886155592318984,ExplosivePat,Explosive Pat 💥,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,Conception Bay South
-Fri Jun 04 18:44:20 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6c80>,1400886153335623681,farhaanginwala,Farhaan Ginwala,"RT @JustinTrudeau: Given the demand for these vaccines, we’ve also negotiated an option for another 3 million doses of Pfizer’s vaccine to…",[],0,75,"अंकलेश्वर, भारत / دبي, Dubai"
-Fri Jun 04 18:44:19 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6cf0>,1400886149133094919,PoPdam,Peter Opdam 🇨🇦,"RT @AnitaOakville: 📢Pfizer has confirmed that 🇨🇦 will continue to receive over 2M doses every week through end of Aug.📢
+HariHara means who is worshipped by both Vaishnavites (Hari) n Shaivites (Hara)
 
-➡️All 51M doses of…",[],0,59,"Ottawa, Ontario"
-Fri Jun 04 18:44:18 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6d60>,1400886144154357766,kirstygrol,CobraKai ⚽️⚽️⚽️⚽️⚽️⚽️⚽️⚽️⚽️,@loopyrizla Heard depends on vaccine. For many Pfizer worse second time but AZ worse the first. So not sure. Just h… https://t.co/AIfy3duGmT,[],0,0,
-Fri Jun 04 18:44:17 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6dd0>,1400886141243609088,susanLo03399918,Elaine Lowe,RT @sowthistles: @MattHancock Between 1% and 8% of those diagnosed with myocarditis need a heart transplant. It's not a 'mild' problem. And…,[],0,30,
-Fri Jun 04 18:44:08 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6e40>,1400886099858309123,enn_nafnlaus,Nafnlaus,"@rmattila74 Initially purchase orders were mainly for AZ, but when AZ stumbled with production, they greatly increa… https://t.co/RB8E7ZsjtS",[],0,0,Á klakanum
-Fri Jun 04 18:44:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6eb0>,1400886097719275523,tmart86,Tmart86,"RT @MorganMont11: Lots of opportunity for second doses this weekend in @City_SC at our @SaskHealth Vaccine Drive Thru! #StickItToCOVID 
-8:3…",['StickItToCOVID'],0,4,
-Fri Jun 04 18:44:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6f20>,1400886096628785164,DollComics,DollComics,@bulbafren Wait...I have the Pfizer,[],0,0,Lost in time
-Fri Jun 04 18:44:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6f90>,1400886095500435462,Debs43564015,Debs,RT @zero_to_here_oh: Any journalist who isn’t beside themselves with rage over the 12-15yo Pfizer vax and the ongoing restrictions and repo…,[],0,32,
-Fri Jun 04 18:44:06 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c040>,1400886092862214152,ForgeRat,RogueLemming🇨🇦🍁🦜⌛ #CanadianJuggernaut,RT @Dan_GT2: After just watching Minister @AnitaOakville thank Pfizer for its cooperation with the federal government is it really a surpri…,[],0,28,#extinction chronicle⌛
-Fri Jun 04 18:44:04 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c0b0>,1400886086759485441,Pin2103227901,Your other boy bangz,"RT @aelghossain: World: Pfizer. 
+Mohini…",[],0,6,
+Fri Jun 04 05:39:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0c80>,1400688618352435207,Radhakrishn_123,sumellikan.riya,"Today samudra manthan is going to show in #rk so excited❣️❣️
+#sumellikaforever
+@Sumellikan_pari 
+@Anu_Radheshyam… https://t.co/RSfu0JDJh7","['rk', 'sumellikaforever']",13,1,"Nagpur, India"
+Fri Jun 04 05:30:06 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0cf0>,1400686276450217984,manthan_singhvi,manthan,@kunal_sancheti There will always be people who want the 4k bag but can only pay 2k for it. Demand will be there. O… https://t.co/p914R9wLGD,[],1,0,"Mumbai, India"
+Fri Jun 04 05:25:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0d60>,1400685127273910273,kunal_sancheti,Kunal Sancheti,"@manthan_singhvi In a VR, certain parameters are defined. The question is would they allow a resell? 
 
-Trump: Bleach.
+Ofc, if they… https://t.co/MmCre7abUk",[],1,0,
+Fri Jun 04 05:24:37 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0dd0>,1400684896134189064,Bharatflutist,Bharat choudhary,"RT @djjsmanthansvk: In a series of organising grooming workshop for the teachers and volunteers, Manthan Sampoorn Vikas Kendra conducted #V…",[],0,10,"Hyderabad, India"
+Fri Jun 04 05:17:40 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0e40>,1400683145758842880,manthan_singhvi,manthan,"@kunal_sancheti Everything resells, the magnitude differs. That predictability is the key to the 💰",[],1,0,"Mumbai, India"
+Fri Jun 04 05:16:40 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0eb0>,1400682897141501954,kunal_sancheti,Kunal Sancheti,"@manthan_singhvi Wonder if VR would have a resell game? If yes, jump in now and become a pioneer",[],1,0,
+Fri Jun 04 04:52:45 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0f20>,1400676877811945474,Indiaat75,India@75 (A CII Initiative),Project Manthan  bridges skill gaps in NGOs through workshops held by experts from the corporate sector. Their serv… https://t.co/7E9xG6uLuT,[],0,0,
+Fri Jun 04 04:32:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a0f90>,1400671789496225794,Hamraj19875239,Hamraj Gurjar,RT @SunilSh77161779: @mediamanthan_ @ashokgehlot51 @GovindDotasra @DrBDKallaINC @Barmer_Harish @PSKhachariyawas @artizzzz @_lokeshsharma @R…,[],0,4,
+Fri Jun 04 04:22:33 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6040>,1400669275199741955,borad_manthan,Manthan Patel,"RT @jtkoster: I am completely amazed at what my wife (and all mothers) went through to bring a child into this world.
 
-Zahle: Araq, w shid hallak ya sanade.",[],0,1,"Ndjamena,Chad"
-Fri Jun 04 18:44:02 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c120>,1400886074499551246,Chris45252118,Chris🌸🌸🌸,"RT @ScottyVsTyranny: MHRA: ""The Pfizer vaccine is safe &amp; effective in the 12-15 age group, the benefits outweigh any risks""
+And happy to get bab…",[],0,49,"Surat, India"
+Fri Jun 04 04:17:00 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a60b0>,1400667881076002824,Shivam1529,Shivam Anand,@ndtvindia Ye kon hote hai manthan karne wale? RSS is a terrorist organisation. Ban it asap. These guys will take India to ancient ages ffs.,[],1,0,"New Delhi, India"
+Fri Jun 04 03:56:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6120>,1400662622870020100,Manthan_singh_,Manthan Shekhawat,@SonuSood Sir my friend's father is on a ventilator and he is the only one who earns in the family currently he is… https://t.co/sGFadL7jbe,[],3,6,
+Fri Jun 04 03:55:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6190>,1400662506977185795,Manthan_singh_,Manthan Shekhawat,@SonuSood @SoodFoundation Sir my friend's father is on a ventilator and he is the only one who earns in the family… https://t.co/BKzgpNI4IB,[],0,0,
+Fri Jun 04 03:15:23 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6200>,1400652372884418562,Pande6Pande,Seema Pande,RT @SunilSh77161779: @mediamanthan_ @ashokgehlot51 @GovindDotasra @DrBDKallaINC @Barmer_Harish @PSKhachariyawas @artizzzz @_lokeshsharma @R…,[],0,4,
+Fri Jun 04 03:00:18 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6270>,1400648576989028355,DineshK90377818,Dinesh Kumar,RT @SunilSh77161779: @mediamanthan_ @ashokgehlot51 @GovindDotasra @DrBDKallaINC @Barmer_Harish @PSKhachariyawas @artizzzz @_lokeshsharma @R…,[],0,4,
+Fri Jun 04 02:51:16 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a62e0>,1400646304871505922,SunilSh77161779,Sunil Sharma,@mediamanthan_ @ashokgehlot51 @GovindDotasra @DrBDKallaINC @Barmer_Harish @PSKhachariyawas @artizzzz @_lokeshsharma… https://t.co/GZ5Ynjy2pw,[],3,4,
+Fri Jun 04 02:45:16 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6350>,1400644795907952643,pussycatalyst,🧗🏽‍♀️,Thought it was impossible to be more in love with my manthan I already am but that turns out to be false. It intens… https://t.co/bHlXdOFWTw,[],1,0,
+Fri Jun 04 01:27:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a63c0>,1400625200115314690,Manthan_singh_,Manthan Shekhawat,@SonuSood @SoodFoundation Sir my friend's father Mr Harjeet Singh Tomar is on a ventilator and he is the only one w… https://t.co/qFiHsKESfo,[],0,0,
+Fri Jun 04 01:00:29 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6430>,1400618426997952512,Bunga47301516,Bunga,"RT @MahabaliPeru: @HinduAmerican Stop these lies. 
 
-How many of th…",[],0,57,
-Fri Jun 04 18:44:00 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c190>,1400886066031194113,AnilSharma8585,Anil Sharma,"RT @itvnews: The Pfizer vaccine produces low level of antibodies against the Delta variant, new data shows
-https://t.co/9FY5rWXGIM",[],0,70,"New Delhi, India"
-Fri Jun 04 18:43:58 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c200>,1400886060830257152,MinajerieNaj,Minajerie,"@Uber @Uber_Support @WhiteHouse 
-@OHSUNews @WHCOVIDResponse 
-If anyone is planning on getting their vaccine at the… https://t.co/LPa6xxzRKd",[],0,0,Inside
-Fri Jun 04 18:43:57 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c270>,1400886057130921993,HayleyColins,blooblooblah( waldman mignon CM678EDG)🇬🇧,"RT @MartinDaubney: POLL: As the UK medicines regulator approves the Pfizer jab for 12-year-olds, will you allow your children to be injecte…",[],0,203,
-Fri Jun 04 18:43:53 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c2e0>,1400886040798371841,CB900F2,Cory,"RT @PierrePoilievre: Imagine a Goldman exec was IMF boss at the same time, or Pfizer’s CEO running the World Health Organization on the sid…",[],0,469,Toronto
-Fri Jun 04 18:43:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c350>,1400886035907743744,sandrakent38,Sandra,"RT @YardleyShooting: BREAKING NEWS. So, the've approved Pfizer for 12-15 years olds. I think it is madness to vaccinate young people. Middl…",[],0,328,
-Fri Jun 04 18:43:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c3c0>,1400886035857412099,aj101007,aj,"RT @FaheemYounus: Mixing Vaccines
+HariHara means who is worshipped by both Vaishnavites (Hari) n Shaivites (Hara)
 
-It’s OK to take Pfizer after 1st dose of Astra Zeneca BUT:
+Mohini…",[],0,6,
+Fri Jun 04 00:39:47 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a64a0>,1400613216737136640,Kannan506,G.A.Arjun,"RT @MahabaliPeru: @HinduAmerican Stop these lies. 
 
-1. Expect more fever, aches afterwards for 1…",[],0,248,"Islamabad, Pakistan"
-Fri Jun 04 18:43:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c430>,1400886033542119425,Karannautiyal9,Karan,"@Crazzy9920 @DrawWide @ANI @SerumInstIndia @adarpoonawalla Bhai jab pata na ho to bola mat kar.
-Booster shots isn't… https://t.co/HVX1Z522GZ",[],0,0,Anon
-Fri Jun 04 18:43:51 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c4a0>,1400886032313159681,LaceyLaceyp,Lacey,"RT @abledoc: Verdict out on Delta variant B1.617.2 found first in India
-It is the most immune evasive (beating B1.135) and most transmissib…",[],0,11,"Vancouver, Canada"
-Fri Jun 04 18:43:45 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c510>,1400886006338002955,Beauvillier18,DyNaMaTriX-Ya-FrEaK,"RT @JustinTrudeau: Given the demand for these vaccines, we’ve also negotiated an option for another 3 million doses of Pfizer’s vaccine to…",[],0,75,"St. Catharines, Ontario"
+HariHara means who is worshipped by both Vaishnavites (Hari) n Shaivites (Hara)
+
+Mohini…",[],0,6,India
+Fri Jun 04 00:01:00 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6510>,1400603455756980228,GPMathur4,G P Mathur,"Good Morning. I am thankful to all my viewers of my YouTube channel named as Ramayan Manthan, especially for those… https://t.co/qWMCuUlkWB",[],1,0,"Ghaziabad, lndia"
+Thu Jun 03 22:49:40 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6580>,1400585503326412804,manthan_singhvi,manthan,@kunal_sancheti Good to know that even in VR im poor,[],0,0,"Mumbai, India"
+Thu Jun 03 20:14:53 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a65f0>,1400546551710175232,MahabaliPeru,महाबली,"@HinduAmerican Stop these lies. 
+
+HariHara means who is worshipped by both Vaishnavites (Hari) n Shaivites (Hara)… https://t.co/AeBATv7AMZ",[],7,6,
+Thu Jun 03 18:32:22 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6660>,1400520754219798530,NazarHaq11,Nazar-Ul-Haq,"RT @TahirsyeedK: Saffronization of government events!
+
+District administration Kupwara today invited BJP members to attend an official meet…",[],0,5,Srinagar
+Thu Jun 03 18:01:50 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a66d0>,1400513070221328385,_manthan_s,Manthan Shah,@varun23oct Thank you so much Sir @varun23oct  for both the amazing sessions. I attend both the session. I gain lot… https://t.co/i6pjW0nm6C,[],4,1,
+Thu Jun 03 16:55:34 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6740>,1400496391340716039,zafar196718,Zafar Sultan,"RT @TahirsyeedK: Saffronization of government events!
+
+District administration Kupwara today invited BJP members to attend an official meet…",[],0,5,
+Thu Jun 03 16:49:16 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a67b0>,1400494807194116097,MosimMir5,Mosim Mir,"RT @TahirsyeedK: Saffronization of government events!
+
+District administration Kupwara today invited BJP members to attend an official meet…",[],0,5,"Srinagar, India"
+Thu Jun 03 16:29:03 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6820>,1400489717884329985,Vivek2019singh,Vivek chaudhary,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,
+Thu Jun 03 16:25:34 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6890>,1400488842604519425,Manthan_78,MC Says CHAMPIONS OF EUROPE 🏆🏆⭐️⭐️,@AshwinRaman_ Gangs of London,[],1,0,"London, England"
+Thu Jun 03 16:16:10 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6900>,1400486477700628481,hu_manthan,Manthan R Mohite,Peace...,[],2,0,
+Thu Jun 03 16:13:27 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6970>,1400485791579602944,hu_manthan,Manthan R Mohite,"Will be leaving twitter and instagram alone for a while from today. 
+Sorry Twitter......
+Seekers can catch me up on linkedin:)",[],2,0,
+Thu Jun 03 16:13:12 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a69e0>,1400485731403849732,SHAHIDPEER14,SHAHID PEER,"RT @TahirsyeedK: Saffronization of government events!
+
+District administration Kupwara today invited BJP members to attend an official meet…",[],0,5,Srinagar Kashmir
+Thu Jun 03 16:08:48 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6a50>,1400484621372989442,hirwani_manthan,Manthan Hirwani,"A lover of rain; someone who finds joy and peace of mind during rainy days.
+#raining #travel #RainyDay https://t.co/DeIKFqC5zf","['raining', 'travel', 'RainyDay']",3,1,
+Thu Jun 03 16:04:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6ac0>,1400483548591759361,VijayRaghavanR2,Vijay Raghavan R,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,
+Thu Jun 03 16:03:10 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6b30>,1400483204272775173,Makefor5,Makefor,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,
+Thu Jun 03 16:01:04 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6ba0>,1400482676621004800,buttkout,Mohit Bhan موہت بھان #SOSJK @jkcovid2021,"RT @TahirsyeedK: Saffronization of government events!
+
+District administration Kupwara today invited BJP members to attend an official meet…",[],0,5,"Srinagar, India"
+Thu Jun 03 15:55:08 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6c10>,1400481184837033984,TahirsyeedK,Tahir Sayeed,"Saffronization of government events!
+
+District administration Kupwara today invited BJP members to attend an offici… https://t.co/wVFxkNho2m",[],68,5,Srinagar
+Thu Jun 03 15:46:15 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6c80>,1400478948140662788,ksmsundaram1975,কে এস এম 🇮🇳 Iyer,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,India 
+Thu Jun 03 15:39:27 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6cf0>,1400477238575788037,EkVishwa,#Bharat-Ek VishwaGuru🇮🇳,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,
+Thu Jun 03 15:38:12 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6d60>,1400476923285839874,DahiyaSKumar11,Subhash Kumar,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,
+Thu Jun 03 15:32:12 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6dd0>,1400475410740117505,tech_river4,Tech_River,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,India
+Thu Jun 03 15:32:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6e40>,1400475390200619010,Santy15078155,V,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,India
+Thu Jun 03 15:25:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6eb0>,1400473748461953042,hu_manthan,Manthan R Mohite,RT @ThisIsDeepPixs: Our situation... https://t.co/tIBMwom1xw,[],0,216,
+Thu Jun 03 15:21:48 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6f20>,1400472794278727689,pheonix_Reborn1,😎,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,
+Thu Jun 03 15:18:00 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1a6f90>,1400471839848103944,shuklakovid,Kovid Shukla 🇮🇳,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,"Mumbai, India"
+Thu Jun 03 15:10:41 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1ab040>,1400469998733185024,RavinderKisan,Ravinder Kisan,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,भारत
+Thu Jun 03 15:03:16 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1ab0b0>,1400468131814928391,HINdUsTanKiJaii,हिंदुस्तानकीजय(अनुराग),"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,HindustanZindabad
+Thu Jun 03 14:59:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1ab120>,1400467203518976003,John_Connor_77,John Connor,"RT @Indian_Analyzer: Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],0,18,"Miami, FL"
+Thu Jun 03 14:57:42 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1ab190>,1400466730682515461,Indian_Analyzer,The Analyzer,"Yogi Ji Maharaj has intrepretated this as 'Do Or Die'
+
+""Samudra-Manthan"" Continues😎🙏",[],101,18,Bharat
+Thu Jun 03 14:34:56 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12d1ab200>,1400461001472962572,amritabhinder,Amrita Bhinder,"RT @GChintamani: How to Write Your First Book 📖 
+
+Will be joining host @ThePiyushJha along with @nidhierajsingh @VijayRajSingh Manthan Gand…",[],0,1,
