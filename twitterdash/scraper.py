@@ -1,0 +1,137 @@
+from datetime import datetime, date, timedelta
+#from twitterscraper import query_tweets
+from collections import Counter
+import ast
+import pandas as pd
+import json
+from dotenv import load_dotenv
+from twython import Twython
+from twython import TwythonStreamer
+import os
+import csv
+load_dotenv()
+
+credentials = {}
+credentials['CONSUMER_KEY'] = os.getenv("TWITTER_API_KEY")
+credentials['CONSUMER_SECRET'] = os.getenv("TWITTER_API_SECRET")
+credentials['ACCESS_TOKEN'] = os.getenv("TWITTER_ACCESS_TOKEN")
+credentials['ACCESS_SECRET'] = os.getenv("TWITTER_ACESSS_TOKEN_SECRET")
+
+python_tweets = Twython(credentials['CONSUMER_KEY'], credentials['CONSUMER_SECRET'])
+
+
+def get_tweets(query):
+    query = {'q': query,
+            'result_type': 'mixed',
+            'count': 100,
+            'lang': 'en',
+            }
+
+    dict_ = {'date': [],'url':[], 'tweet_id':[],'fullname': [],'user_id':[],'text': [],'hashtags':[], 'likes': [], 'retweets':[], 'location':[]}
+    for status in python_tweets.search(**query)['statuses']:
+        dict_['fullname'].append(status['user']['screen_name'])
+        dict_['url'].append(i for i in status['entities']['urls'])
+        dict_['tweet_id'].append(status['id_str'])
+        dict_['user_id'].append(status['user']['name'])
+        dict_['date'].append(status['created_at'])
+        dict_['text'].append(status['text'])
+        dict_['hashtags'].append([hashtags['text'] for hashtags in status['entities']['hashtags']])
+        dict_['likes'].append(status['favorite_count'])
+        dict_['retweets'].append(status['retweet_count'])
+        dict_['location'].append(status['user']['location'])
+    #
+    ## Structure data in a pandas DataFrame for easier manipulation
+    df = pd.DataFrame(dict_)
+    df.to_csv('saved_tweets.csv',index=False)
+    #df.sort_values(by='favorite_count', inplace=True, ascending=False)
+#    print(dict_)
+
+def process_tweet(tweet):
+#    result = geocoder.arcgis(tweet['user']['location'])
+    d = {}
+    d['created_at'] = tweet['created_at']
+#    d['url'] = tweet['retweeted_status']['entities']['urls'][0]['url']
+    d['hashtags'] = [hashtags['text'] for hashtags in tweet['entities']['hashtags']]
+    d['text'] = tweet['text']
+    d['user'] = tweet['user']['screen_name']
+    d['user_loc'] = tweet['user']['location']
+    d['fullname'] = tweet['user']['name']
+    d['likes'] = tweet['favorite_count']
+    d['retweets'] = tweet['retweet_count']
+    
+    
+#    , , '',
+#               'replies', 'retweet_id', 'retweeter_userid', 'retweeter_username', ,
+#               'text', 'timestamp', 'tweet_id', 'user_id', 'username', 'tweet_url']
+#    d['latitude'] = result.x
+#    d['longitude']= result.y
+    return d
+    
+    
+# Create a class that inherits TwythonStreamer
+class MyStreamer(TwythonStreamer):
+
+    # Received data
+    def on_success(self, data):
+
+        # Only collect tweets in English
+        if data['lang'] == 'en':
+            tweet_data = process_tweet(data)
+            self.save_to_csv(tweet_data)
+
+    # Problem with the API
+    def on_error(self, status_code, data):
+        print(status_code, data)
+        self.disconnect()
+        
+    # Save each tweet to csv file
+    def save_to_csv(self, tweet):
+        with open(r'saved_tweets.csv', 'a') as file:
+            writer = csv.writer(file)
+            writer.writerow(list(tweet.values()))
+
+
+def get_last_month_tweets(query):
+    stream = MyStreamer(credentials['CONSUMER_KEY'], credentials['CONSUMER_SECRET'],
+                    credentials['ACCESS_TOKEN'], credentials['ACCESS_SECRET'])
+    # Start the stream
+    stream.statuses.filter(track=query)
+
+
+
+
+
+
+
+
+##tweets.head()
+#
+#list_hashtag_strings = [entry for entry in tweets.hashtags]
+#list_hashtag_lists = ast.literal_eval(','.join(list_hashtag_strings))
+#hashtag_list = [ht.lower() for list_ in list_hashtag_lists for ht in list_]
+#
+## Count most common hashtags
+#counter_hashtags = Counter(hashtag_list)
+#counter_hashtags.most_common(20)
+#
+#
+#
+#tweets = pd.read_csv("saved_tweets.csv")
+
+
+
+
+
+#def get_last_month_tweets(query, limit=1000, lang="en"):
+#    start_date = date.today() - timedelta(30)
+#    tweets = query_tweets(query, limit,poolsize=5, lang=lang, begindate=start_date)
+#    print(f"got {len(tweets)} tweet.")
+#    return tweets
+#
+#def get_last_half_year_tweets(query, limit=1000, lang="en"):
+#    start_date = date.today() - timedelta(30*6)
+#    tweets = query_tweets(query, limit,poolsize=5, lang=lang, begindate=start_date)
+#    print(f"got {len(tweets)} tweet.")
+#    return tweets
+
+#get_last_month_tweets('india')
