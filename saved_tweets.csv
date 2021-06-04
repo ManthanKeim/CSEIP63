@@ -1,213 +1,166 @@
 date,url,tweet_id,fullname,user_id,text,hashtags,likes,retweets,location
-Fri Jun 04 14:56:23 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c133eb0>,1400828784438255622,Shehla_Rashid,Shehla Rashid,Has anyone experienced any issues with menstruation after taking Covishield? You can also DM me if that's more comfortable. Thanks!,[],1179,156,Kashmir | Delhi
-Fri Jun 04 14:46:13 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c133f20>,1400826229264060423,realhimanshi,Himanshi khurana,Hospital saying after six months covishield lgvalo 🙄🙄 covid ka to pta ni vaccines mix krke pta ni body me kya bnega 😷,[],1092,96,"Chandigarh, India"
-Fri Jun 04 03:01:50 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c133f90>,1400648965612183561,priyankac19,Priyanka Chaturvedi🇮🇳,US vaccine allocation for India may not be huge but their decision to remove DP Act to ease raw material supply for… https://t.co/nFLC8cTxdz,[],2134,164,"Mumbai,India"
-Fri Jun 04 18:42:21 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c040>,1400885652443394048,arpit971,Amit Rajan,@balvantnirmal Novamax clinical results won’t come before October. And this approval will not come in 48hrs like Co… https://t.co/VOuCPQVByq,[],0,0,India
-Fri Jun 04 18:42:14 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c0b0>,1400885621896335365,LazyCitizzen,𝐌𝐑𝐊 எம்ஆர்கே 🖤❤️,"RT @srinivasaiims: For Delta Variant, Need Shorter Gap Between Vaccine Doses: Lancet Study
+Fri Jun 04 07:19:30 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9900>,1400713809027907586,carolecadwalla,Carole Cadwalladr,I don’t know how many ways there are of saying this but listen to the scientists. We are at another critical moment… https://t.co/igvRgtitd4,[],8108,2998,
+Fri Jun 04 05:00:49 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9970>,1400678907192414211,CREWcrew,Citizens for Ethics,"AT&amp;T, Pfizer, Jetblue, and Toyota are just four of the at least 170 businesses with PACs that have started to back… https://t.co/gXAIekCdk4",[],731,770,"Washington, D.C."
+Fri Jun 04 10:16:40 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be99e0>,1400758391631384577,katesilverton,Kate Silverton,My Question: How can we know it is ‘safe and effective’ for children when there is no long term safety data ?  UK a… https://t.co/top76CJeJR,[],2492,826,London
+Fri Jun 04 18:46:05 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9a50>,1400886594052177925,harley_carter1,Andy,RT @LynnBrittney2: UK medicines regulator has approved the use of Pfizer vax in 12 year olds and above. They say 'the benefits outweigh the…,[],0,127,
+Fri Jun 04 18:46:03 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9ac0>,1400886582455017482,gkrad9,Greg #RealClimateActionNow #ZeroCOVID19Canada,RT @TorontoStar: NEW from @robferguson1: Ontario is accelerating its COVID-19 vaccine schedule to make second doses of Pfizer and Moderna a…,[],0,5,"Richmond Hill, Ontario"
+Fri Jun 04 18:46:02 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9b30>,1400886579825053696,mindlessissad,Being mindless is sad,RT @RuthDra19656712: @mindlessissad @naomirwolf @annybeav @Lisagilinsky I had my last period around 4 years ago. Went to visit a couple who…,[],0,1,North America
+Fri Jun 04 18:46:00 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9ba0>,1400886571851714565,JaniceKayePhD,"Janice Kaye, PhD",RT @CAMHnews: We are also accepting 2nd dose appointments for anyone 70+ who received a first dose of Pfizer even if they did not receive t…,[],0,4,
+Fri Jun 04 18:46:00 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9c10>,1400886570060697600,vistamiddle,🤠Vista Middle School & Magnets 🧲,💫Exciting day! Vista administering Pfizer Covid-19 vaccines today!! 🙌 ✅ @mspdamonte @VistaMagnets @LDNESchools… https://t.co/rxHu3n0iaz,[],0,0,"Panorama City, California"
+Fri Jun 04 18:45:56 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9c80>,1400886554093133829,ChristineRHunt,Christine Hunt,"RT @AnitaOakville: 📢Pfizer has confirmed that 🇨🇦 will continue to receive over 2M doses every week through end of Aug.📢
 
-Lancet study: The recommendation is at odds wit…",[],0,29,இப்போதைக்கு டில்லி NCR 🖤❤️
-Fri Jun 04 18:41:42 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c120>,1400885487431155715,im_hvsingh,𝙃𝙑 𝙎𝙄𝙉𝙂𝙃✨🔥,@happinessisinyu Covishield 😌,[],0,0,Coal Capital of India 🇮🇳
-Fri Jun 04 18:41:09 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c190>,1400885352848674817,prats19twist1,Pratik Gole,"RT @mybmc: List of CVCs administering Covishield on June 5.
+➡️All 51M doses of…",[],0,59,Mount Albert Canada
+Fri Jun 04 18:45:53 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9cf0>,1400886541363429377,67000milesph,67000milesph,RT @LynnBrittney2: UK medicines regulator has approved the use of Pfizer vax in 12 year olds and above. They say 'the benefits outweigh the…,[],0,127,At the Beach
+Fri Jun 04 18:45:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9d60>,1400886538565730307,liamhc,Liam Cunningham,"RT @DailyCaller: India Buys 300,000,000 Doses Of Unapproved, Unnamed COVID-19 Vaccine https://t.co/qD9D7Y3fev",[],0,3,Toronto
+Fri Jun 04 18:45:50 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9dd0>,1400886528591728648,tmackay68,Tracey Mackay,"RT @LeithDunick: Province says if you had your first mRNA dose (Pfizer, Moderna) before April 18, you can book an accelerated second dose s…",[],0,4,"Thunder Bay, Ontario"
+Fri Jun 04 18:45:48 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9e40>,1400886520953847810,myselfandlouie,Louis Fernandes,@SecretsBedard @JasonMillerinDC @generalkellogg @A1Policy What plan? What about Pfizer ?,[],0,0,"Mayo, Ireland"
+Fri Jun 04 18:45:46 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9eb0>,1400886514733756424,Maga_Manila,Marisol (Proud deplorable),"RT @DailyCaller: India Buys 300,000,000 Doses Of Unapproved, Unnamed COVID-19 Vaccine https://t.co/qD9D7Y3fev",[],0,3,
+Fri Jun 04 18:45:45 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9f20>,1400886508626849801,CarlyBenz1,CarlyB,"RT @thebentaytay: May your tech bros respect you
+Covid neglect you
+Pfizer protect you
+And hot girl summer accept you",[],0,210,
+Fri Jun 04 18:45:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134be9f90>,1400886506168852480,rose_goldenberg,Rose Goldenberg,@DavidBlue @ChrisGorham @pfizer Can’t wait til I can get my almost 6 year old vaccinated. Waiting patiently for the… https://t.co/tdvjZCVhGO,[],0,0,"Sacramento, CA"
+Fri Jun 04 18:45:43 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb040>,1400886501681074183,Superspreader16,Truth Teller,"RT @NewtonClarkeUK: After six months of vaccine rollout, BBC presenter suddenly comes down with a case of inquisitiveness.
 
-Age 45+:
-1st dose- 70%
-2nd dose- 30%
+#COVID19 #Vacci…",['COVID19'],0,60,London 🇬🇧 
+Fri Jun 04 18:45:43 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb0b0>,1400886501551099909,Celestite66,Jen🔥🐎🌞♍️🌛♒️⬆️♎️,"RT @TheRustler83: @MHRAgovuk #Safe for Children ?🤷🏻‍♂️?
 
-Online registrations only.
+#ASTRAZENECA
+Reactions 695,214
+Deaths 831 (+25)
+Blood clot death 61 (+2)
 
-Please carry…",[],0,10,"Girgaon, Mumbai"
-Fri Jun 04 18:40:55 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c200>,1400885291305488384,bulletmanV,Viswanath L,"#VAERS_India 
-Bengaluru based researcher Dr. NS Murthy (76), developed Covid symptoms more than 5 weeks after compl… https://t.co/AtBQYFFJxk",['VAERS_India'],0,0,
-Fri Jun 04 18:40:53 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c270>,1400885285655912449,prats19twist1,Pratik Gole,"RT @mybmc: Additional centers administering Covishield to 45+s
+#PFIZER…","['Safe', 'ASTRAZENECA', 'PFIZER']",0,1,UK
+Fri Jun 04 18:45:43 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb120>,1400886498673807362,surreydemocrat,surreydemocrat 🐑 🌸 #UsforThem,"RT @CovidBlindWife: It’s guaranteed that more kids will die of this than Covid.
 
-100% ONLINE APPOINTMENTS. 
+UK approves Pfizer jab for use in 12-15-year-olds https://…",[],0,112,"South East, England"
+Fri Jun 04 18:45:41 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb190>,1400886492596146178,Laudieda2,Laudieda,"RT @DFisman: Important: German data on ChAd/ChAd (AZ/AZ) vs. ChAd/BNT (AZ/Pfizer) vaccine regimens.
 
-#MyBMCVaccinationUpdate
-#WeShallOvercome https:…","['MyBMCVaccinationUpdate', 'WeShallOvercome']",0,8,"Girgaon, Mumbai"
-Fri Jun 04 18:40:49 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c2e0>,1400885265682505728,Jacob8kin,Nanamin,@davidschneider How about the Indian Covishield?,[],0,0,
-Fri Jun 04 18:40:26 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c350>,1400885171419717633,Pikachyooo,Pikachu,@Nher_who Such a proud moment for Bengal and Bengalis. Their whole life struggle now comes to an end. I congratulat… https://t.co/azRWcZVK0W,[],0,0,"Rotterdam, The Netherlands"
-Fri Jun 04 18:40:18 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c3c0>,1400885135268978688,owl_ggn,Owl🦉,"[00:10:17] 122001, 10-06-2021, 339 dose1 at Max Hospital, #COVISHIELD Max Hospital Opp HUDA City Block Sushant Lok #Gurgaon #Vaccination","['COVISHIELD', 'Gurgaon', 'Vaccination']",0,0,
-Fri Jun 04 18:40:17 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c430>,1400885134006505472,owl_ggn,Owl🦉,"[00:10:17] 122018, 10-06-2021, 9 dose1 at CK BIRLA, #COVISHIELD Sec- 51 Gurgaon Mayfield Garden #Gurgaon #Vaccination","['COVISHIELD', 'Gurgaon', 'Vaccination']",0,0,
-Fri Jun 04 18:39:54 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c4a0>,1400885037696880640,Subha_jit02,It's Rex,@randomkuchbhi @AmanSin40908945 @Skipper_93 @ANI It just strengthens my argument they gave permissions to Covishiel… https://t.co/KsRRfs0TAA,[],0,0,"Kolkata, India"
-Fri Jun 04 18:39:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c510>,1400884994285850624,punevaccinewat1,punevaccinewatch,"[04/06] COVISHIELD (Dose 1 Qty-35, Dose 2 Qty-0, Ages-45+, Dates-04/06) available at - Lt.Anusaya Khilare Model Sch… https://t.co/ste0M7JGiV",[],0,0,
-Fri Jun 04 18:39:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c580>,1400884909363716099,teejayanu,ಅನುNotAny | Anushree,"RT @reachpari: #important For people living in/around Whitefield, there's a paid vaccination drive on in the area. Please DM me if you're i…",['important'],0,15,"Bengaluru, India"
-Fri Jun 04 18:38:58 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c5f0>,1400884800387354627,dhavalsdesai,dhaval desai,"RT @vipintukur: #PGIMER, #Chandigarh study on #breakthrough cases in12,248 HCWs w/ #Covishield vaccine:
+TLDR: AZ/Pfizer regimen blows the door…",[],0,214,"Ontario, Canada"
+Fri Jun 04 18:45:41 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb200>,1400886491295801349,Rathoremankesh,मनकेश बन्ना,"RT @totalwoke: Dear liberals, now that #Vaccine supply is improving sharply, what should be our new #Toolkit
 
-🟠 7170 (58.5%) recd 1st dose…","['PGIMER', 'Chandigarh', 'breakthrough', 'Covishield']",0,57,"Gandhinagar,Gujarat"
-Fri Jun 04 18:38:34 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c660>,1400884699203989504,owl_ggn,Owl🦉,"[00:08:33] 122018, 09-06-2021, 10 dose1 at CK BIRLA, #COVISHIELD Sec- 51 Gurgaon Mayfield Garden #Gurgaon #Vaccination","['COVISHIELD', 'Gurgaon', 'Vaccination']",0,0,
-Fri Jun 04 18:38:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c6d0>,1400884660268277763,rabiiik527,rabia,"RT @shahid_siddiqui: Shorter Dose Gap More Effective Against Delta Variant, Says Lancet Study
-So true, me and many people known to me had C…",[],0,15,
-Fri Jun 04 18:38:06 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c740>,1400884584305225728,owl_ggn,Owl🦉,"[00:08:06] 122001, 07-06-2021, 5 dose1 at Medanta-Mediclinic Covishield, #COVISHIELD Building No. 10C DLF Phase 2 C… https://t.co/Rhj50nFTw3",['COVISHIELD'],0,0,
-Fri Jun 04 18:38:03 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c7b0>,1400884571214811139,SrihariNVasisht,Srihari Vasisht,@btpsupporter @WeAreBangalore @AshwiniMS_TNIE @Namma_ORRCA @WeAreHSRLayout @BommanahalliR @ELCITA_IN @icindngr… https://t.co/s9qMVmFQLr,[],0,0,
-Fri Jun 04 18:37:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c820>,1400884524364435456,Numb_Skull,Gorguntepalya Grinch,"RT @reachpari: #important For people living in/around Whitefield, there's a paid vaccination drive on in the area. Please DM me if you're i…",['important'],0,15,"bangalore, india"
-Fri Jun 04 18:37:12 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c890>,1400884357552775168,AeliyaHaider4,@Aeliya Haider,"RT @AeliyaHaider4: Appeal:  This is requested for all who have not take the first dose of Vaccine .
-Pls 🙏🙏🙏 take it is an weapon against CO…",[],0,1,
-Fri Jun 04 18:36:36 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c900>,1400884204020264960,AeliyaHaider4,@Aeliya Haider,"Appeal:  This is requested for all who have not take the first dose of Vaccine .
-Pls 🙏🙏🙏 take it is an weapon again… https://t.co/pMPkjwFjqF",[],1,1,
-Fri Jun 04 18:36:28 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c970>,1400884173800235014,RaxRaksh,Rakshith,RT @CovidTrackingIn: B.1.617.2 / delta variant ─ researchers @TheCrick  suggest to reduce vaccine (pfizer) gap due significant loss of anti…,[],0,36,"Karnataka, India"
-Fri Jun 04 18:35:51 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15c9e0>,1400884015649804289,mdsajidpcs,MD SAJID,A humble request to reduce the covishield 2nd dose gap to 4-6 weeks in Bihar for beneficiaries yet to complete 84 d… https://t.co/dWH4eK40EL,[],0,0,
-Fri Jun 04 18:35:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15ca50>,1400883950554288128,tweet2ug,Ujjwal Tweets,@Indic_e @FrontalForce @Sanjay_Dixit I heard @Iyervval somewhere saying that taw material issue is with the Moderna… https://t.co/qggiclZHoK,[],0,0,Bharat
-Fri Jun 04 18:35:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15cac0>,1400883902156214276,gopal17march,Gopal Kalantri,"Pvt hospital  in pune are looting by charging 
-Covishield vaccine from Rs 850 to 1000.
-Covaccine from Rs 1250 to 1400.
-Why?",[],0,0,
-Fri Jun 04 18:35:11 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15cb30>,1400883848527769609,tripples2201,$₩@P 🇮🇳🚩,"@Special_033 Read this- 👇
-Karnataka: Health staff taking Covaxin after two doses of Covishield | Bengaluru News - T… https://t.co/GPbz746DIt",[],0,0,
-Fri Jun 04 18:35:05 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15cba0>,1400883825454972928,wholeninebighas,brian carvalho,RT @Dinesh_Unni: The recommendation is at odds with India's recent decision to increase the gap between two Covishield doses to 12 to 16 we…,[],0,1,Bombay
-Fri Jun 04 18:34:45 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15cc10>,1400883741254324224,owl_ggn,Owl🦉,"[00:04:45] 122001, 09-06-2021, 55 dose1 at Max Hospital, #COVISHIELD Max Hospital Opp HUDA City Block Sushant Lok #Gurgaon #Vaccination","['COVISHIELD', 'Gurgaon', 'Vaccination']",0,0,
-Fri Jun 04 18:34:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15cc80>,1400883737743609856,punevaccinewat1,punevaccinewatch,"[04/06] COVISHIELD (Dose 1 Qty-8, Dose 2 Qty-5, Ages-45+, Dates-05/06) available at - Pimple Nilakh UHC, PIMPLE NIL… https://t.co/NWNH2Fwj4j",[],0,0,
-Fri Jun 04 18:34:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15ccf0>,1400883737731035138,punevaccinewat1,punevaccinewatch,"[04/06] COVISHIELD (Dose 1 Qty-28, Dose 2 Qty-0, Ages-45+, Dates-04/06) available at - Rajashri Shahu Maharaj Bhimn… https://t.co/wsQpE4mRG3",[],0,0,
-Fri Jun 04 18:34:36 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15cd60>,1400883701840367619,GirishParekh12,Dr Girish Parekh,@keyurrokadia Sir we have to take care for them because Covishield vaccine is not yet scheduled by WHO,[],0,0,"Vododara, India"
-Fri Jun 04 18:34:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15cdd0>,1400883687089049601,owl_ggn,Owl🦉,"[00:04:32] 122009, 05-06-2021, 26 dose1 at Eye-Q Vision Pvt. Ltd Sec 27, #COVISHIELD Plot No- 531 Sec-27 Near Supar… https://t.co/LdTX5wJA6z",['COVISHIELD'],0,0,
-Fri Jun 04 18:33:09 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15ce40>,1400883335967084545,Pinky67831250,Pinky,"RT @t_d_h_nair: Initially, the GoI through PM care funds procured the 5.6 crores doses of Covishield at the unit cost of 
-Rs.210/- includin…",[],0,266,THAKUR NAGAR
-Fri Jun 04 18:33:04 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15ceb0>,1400883316845277187,Pinky67831250,Pinky,"RT @t_d_h_nair: Currently, the govt is procuring the COVID-19 vaccines (10 crores Covishield and 2 crore Covaxin) at the unit cost of Rs. 1…",[],0,77,THAKUR NAGAR
-Fri Jun 04 18:33:02 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15cf20>,1400883308666363905,MayurSawant3093,Mayur Sawant,"RT @mybmc: List of CVCs administering Covishield on June 5.
+1 Are vaccines safe?
+2 We wan…","['Vaccine', 'Toolkit']",0,209, राजपुताना ⚔️🇮🇳🚩
+Fri Jun 04 18:45:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb270>,1400886481959501830,JohnBen37872668,John Benjamin,"RT @CBCOttawa: NEW: As of Monday at 8 a.m., Ontario residents 70+ and everyone who received an mRNA #COVID19 vaccine (Pfizer or Moderna) on…",['COVID19'],0,46,"Ottawa, Ontario"
+Fri Jun 04 18:45:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb2e0>,1400886481531572233,enn_nafnlaus,Nafnlaus,"@rmattila74 There's not a big difference between AZ and Pfizer with respect to Delta (like there is with Beta), at… https://t.co/xOPpqNNR9D",[],0,0,Á klakanum
+Fri Jun 04 18:45:38 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb350>,1400886479342211079,CMillz,cmil,"RT @DFisman: Important: German data on ChAd/ChAd (AZ/AZ) vs. ChAd/BNT (AZ/Pfizer) vaccine regimens.
 
-Age 45+:
-1st dose- 70%
-2nd dose- 30%
+TLDR: AZ/Pfizer regimen blows the door…",[],0,214,Toronto
+Fri Jun 04 18:45:38 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb3c0>,1400886477295276032,9999tarakram,Melody,"RT @DrJoyeeta: The Medicines and Healthcare products Regulatory Agency has approved the Pfizer Vaccine for 12 to 15 year olds in UK. 
+Who a…",[],0,15,"Hyderabad, India"
+Fri Jun 04 18:45:37 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb430>,1400886475412082689,TricksyRaccoon,Meg Ruttan Walker,RT @vidman: Frederick Mall pharmacy in Kitchener is taking appointments for FIRST DOSE shots of Pfizer today and Saturday according to thei…,[],0,2,Haldimand Tract
+Fri Jun 04 18:45:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb4a0>,1400886466696318982,sandrine_bil,Sandrine Baggins ❤️🧙‍♀️🌟🔮,RT @PoliticsPollss: The UK's medicines regulator has approved the Pfizer/BioNTech coronavirus vaccine for 12 to 15-year-olds. Do you think…,[],0,47,"Dundee, Scotland"
+Fri Jun 04 18:45:33 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb510>,1400886458471399424,YourCaledon,Your Caledon,"RT @regionofpeel: Great news! Starting June 7 at 8 a.m., residents aged 70+ in 2021, and anyone who received their first dose of Pfizer or…",[],0,10,"Caledon, Ontario"
+Fri Jun 04 18:45:30 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb580>,1400886447117320205,GoodDayShine,SunshineDay,"RT @FinancialTimes: People most vulnerable to Covid-19 could require a booster BioNTech/Pfizer vaccine later this year, according to scient…",[],0,567,Cali
+Fri Jun 04 18:45:30 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb5f0>,1400886445716430857,SallyFereday,Sally Fereday CFIRM,"RT @DrZoeHyde: Study of 36 people with long COVID. 8 months after hospitalisation, participants had a median of 4 symptoms (159 total sympt…",[],0,101,London
+Fri Jun 04 18:45:28 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb660>,1400886439122984963,HappyTigah,TheBeardedCouyon,RT @drgauravchandra: Levels of neutralizing antibodies in recipients of BioNTech/Pfizer vaccine five times LOWER against the DELTA VARIANT…,[],0,129,Texas
+Fri Jun 04 18:45:25 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb6d0>,1400886425009242119,lisamaria2k4,Lisa Gittens 🇧🇧🇨🇦🕊,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,"Toronto, Ontario"
+Fri Jun 04 18:45:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb740>,1400886421007876102,AxelsonKathy,Kathy Axelson,"RT @JasonMillerinDC: WHEN Fauci gets hauled in front of Congress, he needs to be asked - under oath - when he knew that the Pfizer vaccine…",[],0,1151,"Madison, Alabama"
+Fri Jun 04 18:45:23 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb7b0>,1400886416578580480,itfeelsinsane,Inva,"all those ppl were lying when they said that u barely feel the first pfizer shot,,,, I'm in pain lmao",[],0,0,"Wien, Österreich"
+Fri Jun 04 18:45:23 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb820>,1400886416154894338,KalanPagnucco,Kalan Pagnucco,"RT @FinancialTimes: People most vulnerable to Covid-19 could require a booster BioNTech/Pfizer vaccine later this year, according to scient…",[],0,567,
+Fri Jun 04 18:45:21 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb890>,1400886408789770241,LeeArno45192933,LeeArnold,"RT @BBGRichie: Breaking. MHRA (UK regulator) has approved the use of the Pfizer jab in 12-15 year-olds. I beg every parent in the country,…",[],0,691,
+Fri Jun 04 18:45:21 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb900>,1400886408160632836,ThrottleCharts,Throttle Charts,"RT @itsthewealth4me: Pfizer - $PFE $39.20/share
+JJ - $JNJ $166.37/share
+Moderna - $206.53/share
+Enzolytics - $ENZC .22/share
 
-Online registrations only.
+Only one of t…",[],0,2,"Amsterdam, The Netherlands"
+Fri Jun 04 18:45:17 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb970>,1400886390032904194,HealthInsider,Healthcare Insider,"RT @drcatherinesb: More evidence both doses of Pfizer's two-dose vaccine could be ""critical"" to protecting against variants @HealthInsider…",[],0,2,
+Fri Jun 04 18:45:17 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcb9e0>,1400886389298896907,_RavenBranwen_,💖💛💙 Blake (she/they)🌹🍋🍓 🐝,"Well, fuck. My vaccine was Pfizer. 
 
-Please carry…",[],0,10,"Mumbai, India"
-Fri Jun 04 18:32:55 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c15cf90>,1400883279134265344,Ravinde07124616,Ravinder Sharma,"RT @AAPPunjab: #CaptainDaVaccineGhotala 
+""Pfizer-BioNTech vaccine elicits weaker antibody response against Delta varian… https://t.co/lYCy8lTvEx",[],0,0,"In your head, rent-free! 💜"
+Fri Jun 04 18:45:16 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcba50>,1400886387381989378,MopsyandJemima,Liz,"RT @Stella4Menzies: So who in the government made the decision to buy so many millions of doses of the Astra Zeneca vaccine, and so few of…",[],0,311,
+Fri Jun 04 18:45:14 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbac0>,1400886378586542080,effies,Effie Seiberg wants you to get vaxxed/wear a mask,"RT @CNBCJulianna: 💉NEW: #Pfizer vaccine elicits weaker antibody response against Delta variant first found in India, acc to new study. Neut…",['Pfizer'],0,501,Bay Area CA
+Fri Jun 04 18:45:13 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbb30>,1400886372320284674,VaxHuntersCan,Vaccine Hunters Canada,"[ON] 🎉 CAMBRIDGE 🎉
+💉 1st DOSE: 12+
+💉 2nd DOSE: 70+
+🗺️ Shoppers Drug Mart: 1500 King St. E, Cambridge ON N3H 3R5
+⭐ 6… https://t.co/pmsEzWI4dI",[],1,0,Canada
+Fri Jun 04 18:45:11 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbba0>,1400886366741823488,sameer3946,sameer mohammad,RT @drshamamohd: The BJP govt is ordering 30 crore doses of Biological E’s Covid-19 vaccine even though it hasn't received regulatory appro…,[],0,379,
+Fri Jun 04 18:45:09 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbc10>,1400886359531921410,Dudette9t9,Dudette Wears A 😷 💛🐝,"RT @FinancialTimes: People most vulnerable to Covid-19 could require a booster BioNTech/Pfizer vaccine later this year, according to scient…",[],0,567,
+Fri Jun 04 18:45:08 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbc80>,1400886353592782849,Peter_1888,Peter White,RT @DrFrancesRyan: Every anti-vaxxer should watch parents of clinically vulnerable teenagers weeping with relief at the Pfizer news that th…,[],0,62,"England, United Kingdom"
+Fri Jun 04 18:45:08 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbcf0>,1400886352254746625,mygrandmotherma,Sandi Adams,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,"Long Sault, ON"
+Fri Jun 04 18:45:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbd60>,1400886350958764038,gail_sloane,Gail Sloane RN. BScN. MHSc. MEd. Cand.,RT @Dan_GT2: After just watching Minister @AnitaOakville thank Pfizer for its cooperation with the federal government is it really a surpri…,[],0,28,"Halifax, Nova Scotia"
+Fri Jun 04 18:45:06 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbdd0>,1400886346500038657,CoronaUpdateBot,Corona Update Bot,"RT @DailyCaller: India Buys 300,000,000 Doses Of Unapproved, Unnamed COVID-19 Vaccine https://t.co/qD9D7Y3fev",[],0,3,
+Fri Jun 04 18:45:05 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbe40>,1400886339445219330,EsselLeroy,Leroy James Essel,RT @thehill: 7 US teens report heart inflammation after second Pfizer dose: Study https://t.co/ypk2FfnNjM https://t.co/u6oKhezSYi,[],0,25,
+Fri Jun 04 18:45:03 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbeb0>,1400886333493678093,poandpo,POST Online Media,UK approves Pfizer/BioNTech Covid-19 jab for use in 12 to 15-year-olds https://t.co/RwLTlsZ4h0 #Health… https://t.co/84wdnPyDKJ,['Health'],0,0,World
+Fri Jun 04 18:45:02 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbf20>,1400886327273562113,SNPareDuff,GJ 🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿,@VictoryDay_Hope @Max46023367 Fauci you say. The man who said our regulators were too quick approving Pfizer and Am… https://t.co/QxChradR3O,[],0,0,"London, England"
+Fri Jun 04 18:45:02 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bcbf90>,1400886326430404609,leismarie,Leis Marie,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,"Ontario, Canada"
+Fri Jun 04 18:45:01 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6040>,1400886325478268928,RMellawa,Ranjan Mellawa,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,Sri Lanka
+Fri Jun 04 18:45:01 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc60b0>,1400886322747920389,DailyCaller,Daily Caller,"India Buys 300,000,000 Doses Of Unapproved, Unnamed COVID-19 Vaccine https://t.co/qD9D7Y3fev",[],3,3,"Washington, DC"
+Fri Jun 04 18:44:59 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6120>,1400886316678541312,effies,Effie Seiberg wants you to get vaxxed/wear a mask,"RT @FinancialTimes: People most vulnerable to Covid-19 could require a booster BioNTech/Pfizer vaccine later this year, according to scient…",[],0,567,Bay Area CA
+Fri Jun 04 18:44:55 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6190>,1400886299523907585,accidentalflyer,ah* 🇨🇦🇹🇼🚀✈️ PhD 毋忘六四,@BobMasternak @RWeezy02 @Noahpinion Canada will also allow for mixing dosage https://t.co/brS0bXJNJ4,[],0,0,"San Francisco, CA"
+Fri Jun 04 18:44:54 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6200>,1400886295233282054,aManCalledG,Genji Yamaguchi,"RT @nycHealthy: Join us this weekend for food, music and activities at Youth Vax Block Parties in all five boroughs! Pfizer #COVID19 vaccin…",['COVID19'],0,46,"Manhattan, NY"
+Fri Jun 04 18:44:53 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6270>,1400886291584200708,ChandyAnil,Anil,"RT @AbyChackoNgp: For Delta Variant, Need Shorter Gap Between Vaccine Doses: Lancet Study
 
-▪️ On 15th of May, 2021
+So what will now happen to 12-16 week gap adviso…",[],0,20,"Accra, Ghana"
+Fri Jun 04 18:44:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc62e0>,1400886285120675840,Crestshire,Crestshire,@StephenSeanFord Agreed. I had Pfizer and #2 was the hardest. Get better.,[],0,0,
+Fri Jun 04 18:44:51 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6350>,1400886280473481222,Trrymc,Terry 🖐🏼☝🏼,"RT @fergalkiernan: Changing your name to 
+Pfizer Vaccine? https://t.co/GQIpMNLu4N",[],0,113,"Liverpool, England"
+Fri Jun 04 18:44:46 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc63c0>,1400886260051451910,dykehalfbaked,CB😷,RT @thehill: 7 US teens report heart inflammation after second Pfizer dose: Study https://t.co/ypk2FfnNjM https://t.co/u6oKhezSYi,[],0,25,House Arrest 2020
+Fri Jun 04 18:44:45 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6430>,1400886257572405249,rose_goldenberg,Rose Goldenberg,RT @ChrisGorham: Our 12 year old got her second @pfizer vaccine today! All five of us now vaccinated and just 14 days from full immunity. H…,[],0,3,"Sacramento, CA"
+Fri Jun 04 18:44:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc64a0>,1400886253281816579,SallyFereday,Sally Fereday CFIRM,"RT @CrabbBrendan: Main message for 🇦🇺 is to get vaccinated if at all possible. Both AZ and Pfizer work against the Delta variant, not quite…",[],0,462,London
+Fri Jun 04 18:44:43 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6510>,1400886247116128259,darcysarazin,darc darc,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,
+Fri Jun 04 18:44:42 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6580>,1400886243148189698,bforst,Brian Forst,"RT @DFisman: Important: German data on ChAd/ChAd (AZ/AZ) vs. ChAd/BNT (AZ/Pfizer) vaccine regimens.
 
-@capt_amarinder's chief secretary Vini Mahajan was promoting to get a ja…",['CaptainDaVaccineGhotala'],0,63,hoshiarour
-Fri Jun 04 18:32:31 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162040>,1400883177204318209,Sam11532633,Sam,"RT @duarah_hd: Are The Covaxin Doses Not Available in Assam? So, tomorrow I am supposed to get Covaxin Dose 2 but the stocks are showing on…",[],0,5,
-Fri Jun 04 18:32:09 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1620b0>,1400883087572013056,GanpalRR,G R R,RT @priyankac19: US vaccine allocation for India may not be huge but their decision to remove DP Act to ease raw material supply for manufa…,[],0,164,"Bengaluru, Karnataka"
-Fri Jun 04 18:32:09 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162120>,1400883087433605120,RozitaSingh,Rozita Singh,RT @CovidTrackingIn: B.1.617.2 / delta variant ─ researchers @TheCrick  suggest to reduce vaccine (pfizer) gap due significant loss of anti…,[],0,36,New Delhi
-Fri Jun 04 18:32:04 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162190>,1400883063349911553,RAGHAVVIJINC,Raghav Vij,RT @SandeepsRissam: Today's status of Vaccination for 18+ in many districts of JammuKashmir. Again NOcenter or 1 ceremonial center for Form…,[],0,12,"Ambala, India"
-Fri Jun 04 18:31:56 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162200>,1400883029971673091,RajaJasvir,Jasvir Singh Raja Gill,"RT @AAPPunjab: #CaptainDaVaccineGhotala 
+TLDR: AZ/Pfizer regimen blows the door…",[],0,214,"Edmonton, AB"
+Fri Jun 04 18:44:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc65f0>,1400886232813477893,signsaresaying,Disinfect Democracy - Humanity depends on it.,"RT @CameronAhmad: Vaccine update:
 
-▪️ On 15th of May, 2021
+➡️ 2 million Pfizer doses per week until end of August
+➡️ 9+ million doses in July, 9.1 in August
+➡️ neg…",[],0,28,Treaty One 🇨🇦 Turtle Island
+Fri Jun 04 18:44:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6660>,1400886231781761027,AmandaSHansen,Amanda Hansen,NEW #Vaccine Update: Pfizer jab found to elicit lower antibody response to Delta variant than to original coronavir… https://t.co/mDxtnxw9NB,['Vaccine'],0,0,"South Jordan, UT"
+Fri Jun 04 18:44:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc66d0>,1400886231651819520,briasoboojie,BRIANA⁷🤎,Pfizer dolls we might need to get another shot later this year. It'll be a booster.,[],0,0,Manifesting NYC & London
+Fri Jun 04 18:44:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6740>,1400886216443240450,Julie_A_Smyth,Julie Smyth 💙,RT @carolecadwalla: I don’t know how many ways there are of saying this but listen to the scientists. We are at another critical moment. Th…,[],0,2998,
+Fri Jun 04 18:44:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc67b0>,1400886214119538692,russhopTv,Russell Hopwood,"RT @BBGRichie: Breaking. MHRA (UK regulator) has approved the use of the Pfizer jab in 12-15 year-olds. I beg every parent in the country,…",[],0,691,spain
+Fri Jun 04 18:44:35 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6820>,1400886213129670656,RL82031397,RL,RT @DailyExposeNews: BREAKING - U.K. approves Pfizer jab for use in children even though 86% suffered an adverse reaction ranging from mild…,[],0,243,
+Fri Jun 04 18:44:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6890>,1400886203696644096,dade_kevin,Kevin McDade,RT @RosieBarton: PM confirms Canada will receive over 2 million doses of Pfizer every week until the end of August. Govt has also optioned…,[],0,59,
+Fri Jun 04 18:44:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6900>,1400886202719293446,dlitts6,Mz. PettyBetty 🖤,"RT @thebentaytay: May your tech bros respect you
+Covid neglect you
+Pfizer protect you
+And hot girl summer accept you",[],0,210,"Oakland, CA"
+Fri Jun 04 18:44:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6970>,1400886200718790660,othersideam,Other Side Asset Management,Because the patent he shares is the technology used by Pfizer and Moderna. Incentives are a bitch. #JailFauci https://t.co/MIDiBsPH96,['JailFauci'],0,0,
+Fri Jun 04 18:44:31 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc69e0>,1400886196490833928,SaumitraChat,Saumitra Chaturvedi,@mathurapuri @sree_free @mukeshmarda @manipulatdjourn @rishisankaran @vikramchandra No it shouldn't be free. Those… https://t.co/0Cacja6dqw,[],0,0,शिव-चरण
+Fri Jun 04 18:44:28 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6a50>,1400886183782141952,GrahamWharton74,Graham Wharton,"@jellicocat1 @The_Wilf_Man @Dominique_ITV Yellow card has nothing to do with Pfizer. If there are problems,.yellow… https://t.co/IRdOLVmEqh",[],0,0,"Weymouth, Dorset"
+Fri Jun 04 18:44:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6ac0>,1400886168519118849,benjstanfield17,Ben Stanfield,"@fact_covid Where is the data to show how many of each vaccine have been administered #how may Pfizer in total , ho… https://t.co/zzWKo3plrS",['how'],0,0,
+Fri Jun 04 18:44:22 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6b30>,1400886159543259139,ly_qi,Ly Qi,"@20Andre200 @KarenShackleto5 I had bad effects with my 1st Pfizer but the 2nd was great, no problem at all.  Hope y… https://t.co/sHqUVft8Ua",[],0,0,
+Fri Jun 04 18:44:22 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6ba0>,1400886159086133250,MBMPhotography,Jodi Maxwell-Lee,@bkives this is the message we are still getting when we try to book second dose of Pfizer when our first shot was… https://t.co/Syx4MKEfiA,[],0,0,"Oakville, Manitoba CANADA"
+Fri Jun 04 18:44:21 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6c10>,1400886155592318984,ExplosivePat,Explosive Pat 💥,RT @JustinTrudeau: Update: I can now confirm that Canada will receive more than 2 million doses of Pfizer’s COVID-19 vaccine every week unt…,[],0,304,Conception Bay South
+Fri Jun 04 18:44:20 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6c80>,1400886153335623681,farhaanginwala,Farhaan Ginwala,"RT @JustinTrudeau: Given the demand for these vaccines, we’ve also negotiated an option for another 3 million doses of Pfizer’s vaccine to…",[],0,75,"अंकलेश्वर, भारत / دبي, Dubai"
+Fri Jun 04 18:44:19 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6cf0>,1400886149133094919,PoPdam,Peter Opdam 🇨🇦,"RT @AnitaOakville: 📢Pfizer has confirmed that 🇨🇦 will continue to receive over 2M doses every week through end of Aug.📢
 
-@capt_amarinder's chief secretary Vini Mahajan was promoting to get a ja…",['CaptainDaVaccineGhotala'],0,63,"Tanda, India"
-Fri Jun 04 18:31:54 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162270>,1400883024871395329,SAHILPANDITA444,SAHIL PANDITA,RT @kashmiriRefuge: 1.25 Lakh Covishield Vaccines received in Jammu. https://t.co/Qr79wH0N3n,[],0,3,Jammu
-Fri Jun 04 18:30:59 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1622e0>,1400882792590766080,drravjotsingh,Dr Ravjot Singh,"RT @AAPPunjab: #CaptainDaVaccineGhotala 
+➡️All 51M doses of…",[],0,59,"Ottawa, Ontario"
+Fri Jun 04 18:44:18 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6d60>,1400886144154357766,kirstygrol,CobraKai ⚽️⚽️⚽️⚽️⚽️⚽️⚽️⚽️⚽️,@loopyrizla Heard depends on vaccine. For many Pfizer worse second time but AZ worse the first. So not sure. Just h… https://t.co/AIfy3duGmT,[],0,0,
+Fri Jun 04 18:44:17 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6dd0>,1400886141243609088,susanLo03399918,Elaine Lowe,RT @sowthistles: @MattHancock Between 1% and 8% of those diagnosed with myocarditis need a heart transplant. It's not a 'mild' problem. And…,[],0,30,
+Fri Jun 04 18:44:08 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6e40>,1400886099858309123,enn_nafnlaus,Nafnlaus,"@rmattila74 Initially purchase orders were mainly for AZ, but when AZ stumbled with production, they greatly increa… https://t.co/RB8E7ZsjtS",[],0,0,Á klakanum
+Fri Jun 04 18:44:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6eb0>,1400886097719275523,tmart86,Tmart86,"RT @MorganMont11: Lots of opportunity for second doses this weekend in @City_SC at our @SaskHealth Vaccine Drive Thru! #StickItToCOVID 
+8:3…",['StickItToCOVID'],0,4,
+Fri Jun 04 18:44:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6f20>,1400886096628785164,DollComics,DollComics,@bulbafren Wait...I have the Pfizer,[],0,0,Lost in time
+Fri Jun 04 18:44:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134bc6f90>,1400886095500435462,Debs43564015,Debs,RT @zero_to_here_oh: Any journalist who isn’t beside themselves with rage over the 12-15yo Pfizer vax and the ongoing restrictions and repo…,[],0,32,
+Fri Jun 04 18:44:06 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c040>,1400886092862214152,ForgeRat,RogueLemming🇨🇦🍁🦜⌛ #CanadianJuggernaut,RT @Dan_GT2: After just watching Minister @AnitaOakville thank Pfizer for its cooperation with the federal government is it really a surpri…,[],0,28,#extinction chronicle⌛
+Fri Jun 04 18:44:04 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c0b0>,1400886086759485441,Pin2103227901,Your other boy bangz,"RT @aelghossain: World: Pfizer. 
 
-▪️ On 15th of May, 2021
+Trump: Bleach.
 
-@capt_amarinder's chief secretary Vini Mahajan was promoting to get a ja…",['CaptainDaVaccineGhotala'],0,63,ਹੋਸ਼ਿਆਰਪੂਰ ਭਾਰਤ 
-Fri Jun 04 18:30:41 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162350>,1400882715679887361,Exploringbuddy_,Exploring Buddy Official Pune,"RT @PuneUpdater: Pin Code:[412115] 
-Symbiosis University Hospital
-Vaccines: COVISHIELD,
-Min Age Limit: [18],
-Dose1 Capacity: 0,1,
-Dose2 Cap…",[],0,1,"Pune, India"
-Fri Jun 04 18:30:37 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1623c0>,1400882701180170243,NdSolanki,Narendra Solanki🇮🇳,RT @CovidTrackingIn: B.1.617.2 / delta variant ─ researchers @TheCrick  suggest to reduce vaccine (pfizer) gap due significant loss of anti…,[],0,36,Bangalore
-Fri Jun 04 18:30:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162430>,1400882574784745476,owl_ggn,Owl🦉,"[00:00:07] 122001, 10-06-2021, 341 dose1 at Max Hospital, #COVISHIELD Max Hospital Opp HUDA City Block Sushant Lok #Gurgaon #Vaccination","['COVISHIELD', 'Gurgaon', 'Vaccination']",0,0,
-Fri Jun 04 18:30:07 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1624a0>,1400882573513949188,owl_ggn,Owl🦉,"[00:00:07] 122018, 10-06-2021, 9 dose1 at CK BIRLA, #COVISHIELD Sec- 51 Gurgaon Mayfield Garden #Gurgaon #Vaccination","['COVISHIELD', 'Gurgaon', 'Vaccination']",0,0,
-Fri Jun 04 18:30:02 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162510>,1400882554224349184,CowinBangalore,CowinBangalore,"560062, #COVISHIELD for
-AGE 18+
-0-D1 40-D2 slots on 06-06-2021
-@Rainbowhospital2nd Floor",['COVISHIELD'],0,0,
-Fri Jun 04 18:30:01 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162580>,1400882547056283648,CowinBangalore,CowinBangalore,"560062, 
-AGE 18+
-0-D1, 40-D2 slots,
-#COVISHIELD on 06-06-2021
-@ Rainbowhospital2nd Floor",['COVISHIELD'],0,0,
-Fri Jun 04 18:29:54 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1625f0>,1400882518270742528,kamalji60993119,Dr kamaljit singh,"RT @AAPPunjab: #CaptainDaVaccineGhotala 
+Zahle: Araq, w shid hallak ya sanade.",[],0,1,"Ndjamena,Chad"
+Fri Jun 04 18:44:02 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c120>,1400886074499551246,Chris45252118,Chris🌸🌸🌸,"RT @ScottyVsTyranny: MHRA: ""The Pfizer vaccine is safe &amp; effective in the 12-15 age group, the benefits outweigh any risks""
 
-▪️ On 15th of May, 2021
+How many of th…",[],0,57,
+Fri Jun 04 18:44:00 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c190>,1400886066031194113,AnilSharma8585,Anil Sharma,"RT @itvnews: The Pfizer vaccine produces low level of antibodies against the Delta variant, new data shows
+https://t.co/9FY5rWXGIM",[],0,70,"New Delhi, India"
+Fri Jun 04 18:43:58 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c200>,1400886060830257152,MinajerieNaj,Minajerie,"@Uber @Uber_Support @WhiteHouse 
+@OHSUNews @WHCOVIDResponse 
+If anyone is planning on getting their vaccine at the… https://t.co/LPa6xxzRKd",[],0,0,Inside
+Fri Jun 04 18:43:57 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c270>,1400886057130921993,HayleyColins,blooblooblah( waldman mignon CM678EDG)🇬🇧,"RT @MartinDaubney: POLL: As the UK medicines regulator approves the Pfizer jab for 12-year-olds, will you allow your children to be injecte…",[],0,203,
+Fri Jun 04 18:43:53 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c2e0>,1400886040798371841,CB900F2,Cory,"RT @PierrePoilievre: Imagine a Goldman exec was IMF boss at the same time, or Pfizer’s CEO running the World Health Organization on the sid…",[],0,469,Toronto
+Fri Jun 04 18:43:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c350>,1400886035907743744,sandrakent38,Sandra,"RT @YardleyShooting: BREAKING NEWS. So, the've approved Pfizer for 12-15 years olds. I think it is madness to vaccinate young people. Middl…",[],0,328,
+Fri Jun 04 18:43:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c3c0>,1400886035857412099,aj101007,aj,"RT @FaheemYounus: Mixing Vaccines
 
-@capt_amarinder's chief secretary Vini Mahajan was promoting to get a ja…",['CaptainDaVaccineGhotala'],0,63,Dhariwal A
-Fri Jun 04 18:29:49 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162660>,1400882497806688258,Dinesh_Unni,Dinesh Unnikrishnan,The recommendation is at odds with India's recent decision to increase the gap between two Covishield doses to 12 t… https://t.co/WZgWhtN6NI,[],0,1,Mumbai
-Fri Jun 04 18:29:46 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1626d0>,1400882487706882048,rahulagarwalind,Rahul Agarwal,@IMinakshiJoshi it would have been faster if second dose time duration was 4 weeks also for #COVISHIELD,['COVISHIELD'],0,0,New delhi
-Fri Jun 04 18:29:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162740>,1400882479020396545,punevaccinewat1,punevaccinewatch,"[04/06] COVISHIELD (Dose 1 Qty-7, Dose 2 Qty-7, Ages-45+, Dates-05/06) available at - Pimple Nilakh UHC, PIMPLE NIL… https://t.co/IExpygUS0w",[],0,0,
-Fri Jun 04 18:29:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1627b0>,1400882478747766785,punevaccinewat1,punevaccinewatch,"[04/06] COVISHIELD (Dose 1 Qty-36, Dose 2 Qty-0, Ages-45+, Dates-04/06) available at - Lt.Anusaya Khilare Model Sch… https://t.co/4DPmiUxNb9",[],0,0,
-Fri Jun 04 18:29:33 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162820>,1400882433575178242,Exploringbuddy_,Exploring Buddy Official Pune,"RT @PuneUpdater: Pin Code:[411045] 
-Healing Hands Clinic Baner
-Vaccines: COVISHIELD,
-Min Age Limit: [18],
-Dose1 Capacity: 1,
-Dose2 Capacity…",[],0,1,"Pune, India"
-Fri Jun 04 18:29:29 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162890>,1400882413090258945,in_mohit,Mohit 💻 ✍🏽,RT @Shehla_Rashid: Has anyone experienced any issues with menstruation after taking Covishield? You can also DM me if that's more comfortab…,[],0,156,Anywhere
-Fri Jun 04 18:28:43 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162900>,1400882223629234176,harrykamal,Anish kamal,"RT @AAPPunjab: #CaptainDaVaccineGhotala 
+It’s OK to take Pfizer after 1st dose of Astra Zeneca BUT:
 
-▪️ On 15th of May, 2021
-
-@capt_amarinder's chief secretary Vini Mahajan was promoting to get a ja…",['CaptainDaVaccineGhotala'],0,63,"New Delhi, India"
-Fri Jun 04 18:28:29 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162970>,1400882162321084424,Exploringbuddy_,Exploring Buddy Official Pune,"RT @PuneUpdater: Pin Code:[411014] 
-APOLLO CLINIC VIMAN NAGAR
-Vaccines: COVAXIN COVISHIELD,
-Min Age Limit: [18],
-Dose1 Capacity: 1,0,
-Dose2…",[],0,1,"Pune, India"
-Fri Jun 04 18:28:27 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1629e0>,1400882154612019200,Exploringbuddy_,Exploring Buddy Official Pune,"RT @PuneUpdater: Pin Code:[411004] 
-SAHYADRI SUPER SPECIALITY
-Vaccines: COVISHIELD,
-Min Age Limit: [45,18],
-Dose1 Capacity: 0,1,
-Dose2 Capa…",[],0,0,"Pune, India"
-Fri Jun 04 18:28:25 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162a50>,1400882144583438337,owl_ggn,Owl🦉,"[23:58:24] 122018, 09-06-2021, 10 dose1 at CK BIRLA, #COVISHIELD Sec- 51 Gurgaon Mayfield Garden #Gurgaon #Vaccination","['COVISHIELD', 'Gurgaon', 'Vaccination']",0,0,
-Fri Jun 04 18:27:56 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162ac0>,1400882024588615681,owl_ggn,Owl🦉,"[23:57:56] 122001, 07-06-2021, 6 dose1 at Medanta-Mediclinic Covishield, #COVISHIELD Building No. 10C DLF Phase 2 C… https://t.co/B0kWLth36V",['COVISHIELD'],0,0,
-Fri Jun 04 18:27:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162b30>,1400882007345823744,Vasudevmodi3,Vasudev modi,"RT @sunmor2901: ""No antibodies"" found despite taking Covishield dose:
-
-Complaint filed against Adar Poonawalla, Serum Institute.
-
-Is this t…",[],0,115,
-Fri Jun 04 18:27:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162ba0>,1400881891176157186,Exploringbuddy_,Exploring Buddy Official Pune,"RT @PuneUpdater: Pin Code:[411001] 
-Jehangir Hosp
-Vaccines: COVISHIELD,
-Min Age Limit: [18,45],
-Dose1 Capacity: 1,0,
-Dose2 Capacity: 0,
-Dat…",[],0,1,"Pune, India"
-Fri Jun 04 18:26:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162c10>,1400881672195739648,vsengupta,Vivek Sengupta,The recommendation is at odds with India's recent decision to increase the gap between two Covishield doses to 12 t… https://t.co/2gFCRkxelx,[],0,0,"Gurgaon, Haryana. India"
-Fri Jun 04 18:26:23 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162c80>,1400881634275065866,vmpworld,𝓥𝓜𝓟,"RT @archthegr8: Finally got a slot for my maid at a pvt hospital, which is charging Rs. 900 for Covishield. 50% more than the stipulated (a…",[],0,1,Mumbai
-Fri Jun 04 18:26:14 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162cf0>,1400881596685717505,BgmVaccineWatch,Belgaum Vaccine Watch,"[04/06] COVISHIELD (Dose 1 Qty-3, Dose 2 Qty-110, Ages-45+, Dates-04/06, 05/06) available at - BIMS GENERAL PUBLIC,… https://t.co/wfVWvLnuSQ",[],0,0,
-Fri Jun 04 18:25:51 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162d60>,1400881501936361477,rahulmishrajii,Rahul mishra,"Vaccination Done... ❤️ 
-
-Time to Fight together 💯
-
-#vaccinationdone✔️ #covid_19 #fight_together #Covishield https://t.co/LY0mqhXjfJ","['vaccinationdone', 'covid_19', 'fight_together', 'Covishield']",0,0,"garhwa, jharkhand/india"
-Fri Jun 04 18:25:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162dd0>,1400881450363199492,nkshetty82,randomdrafter,@prasannavishy Cowin site shows lots of Covishield dose 1 &amp; 2 for 45+ free now for next few days..,[],0,0,Bangalore
-Fri Jun 04 18:25:19 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162e40>,1400881365415993354,RandomCricketP1,RandomCricketPhotos&Videos,Nothing that I read about its after effects prepared me for the bouncer the first dose of Covishield has hurled tow… https://t.co/khOPecwERV,[],20,0,"New Delhi, India"
-Fri Jun 04 18:25:12 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162eb0>,1400881337528061953,Exploringbuddy_,Exploring Buddy Official Pune,"RT @owl_pune: [20:30:55] 411040, 05-06-2021, 550 dose1 at RUBY HALL CLINIC (WANOWARIE), #COVISHIELD 59 6 AZHAD NAGAR WANOWARIE PUNE #Pune #…","['COVISHIELD', 'Pune']",0,0,"Pune, India"
-Fri Jun 04 18:24:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162f20>,1400881219470958592,punevaccinewat1,punevaccinewatch,"[04/06] COVISHIELD (Dose 1 Qty-8, Dose 2 Qty-7, Ages-45+, Dates-05/06) available at - Pimple Nilakh UHC, PIMPLE NIL… https://t.co/t6s9UWoQzP",[],0,0,
-Fri Jun 04 18:24:43 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c162f90>,1400881213368279041,trulysecularr,Adzak,RT @realhimanshi: Hospital saying after six months covishield lgvalo 🙄🙄 covid ka to pta ni vaccines mix krke pta ni body me kya bnega 😷,[],0,96,
-Fri Jun 04 18:24:34 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168040>,1400881175632113664,owl_ggn,Owl🦉,"[23:54:33] 122001, 09-06-2021, 55 dose1 at Max Hospital, #COVISHIELD Max Hospital Opp HUDA City Block Sushant Lok #Gurgaon #Vaccination","['COVISHIELD', 'Gurgaon', 'Vaccination']",0,0,
-Fri Jun 04 18:24:30 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1680b0>,1400881161383989250,ShoaibCh1996,Shoaib Chaudhary,RT @realhimanshi: Hospital saying after six months covishield lgvalo 🙄🙄 covid ka to pta ni vaccines mix krke pta ni body me kya bnega 😷,[],0,96,"New Delhi, India"
-Fri Jun 04 18:24:30 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168120>,1400881158854905858,owl_ggn,Owl🦉,"[23:54:29] 122009, 05-06-2021, 26 dose1 at Eye-Q Vision Pvt. Ltd Sec 27, #COVISHIELD Plot No- 531 Sec-27 Near Supar… https://t.co/kTJtlFjtDU",['COVISHIELD'],0,0,
-Fri Jun 04 18:24:20 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168190>,1400881119050944512,archthegr8,Archanā Iyer ارچنا ایائر,"Finally got a slot for my maid at a pvt hospital, which is charging Rs. 900 for Covishield. 50% more than the stipu… https://t.co/8hbf4wmUnS",[],0,1,
-Fri Jun 04 18:24:17 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168200>,1400881108158279681,Bikash_Das_11,_OFFICIAL_FP_OF_TELLYWOOD_,RT @realhimanshi: Hospital saying after six months covishield lgvalo 🙄🙄 covid ka to pta ni vaccines mix krke pta ni body me kya bnega 😷,[],0,96,India
-Fri Jun 04 18:23:33 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168270>,1400880920534552577,sufi58587,Sufi58587,"RT @sunmor2901: ""No antibodies"" found despite taking Covishield dose:
-
-Complaint filed against Adar Poonawalla, Serum Institute.
-
-Is this t…",[],0,115,
-Fri Jun 04 18:23:17 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1682e0>,1400880854293835777,kum_1_09,Kumar🇮🇳,Nose bleed after Covishield @mybmc @mybmcHealthDept @MoHFW_INDIA,[],0,0,Antarctica
-Fri Jun 04 18:22:49 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168350>,1400880735108710404,nashik_feed,Nashik Feed 🤖,"RT @nashikvaccinew1: [04/06] COVISHIELD (Dose 1 Qty-0, Dose 2 Qty-45, Ages-45+, Dates-05/06) available at - 1 Redcross, Chowk Red Cross Rd…",[],0,1,"Nashik, India"
-Fri Jun 04 18:22:40 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1683c0>,1400880698043424769,bitch_alia,Alia Bhatt Mistress Bitch,RT @AliaCluster: The third episode addresses why people are hesitant to take vaccine and the possibility of third wave. #IndiaFightsCorona…,['IndiaFightsCorona'],0,5,
-Fri Jun 04 18:22:22 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168430>,1400880622193676288,1011Jigar,🇮🇳Jigar R. Pandya🇮🇳,"RT @SantvaniMusic: And there i Go , Taken my first jab of #COVID19 vaccine #COVISHIELD . 
-Have You ? 
-Don’t panic or freak out .
-The vaccin…","['COVID19', 'COVISHIELD']",0,11,"Mumbai, India"
-Fri Jun 04 18:21:59 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1684a0>,1400880529428254725,mym_bgm,Marwari Yuva Manch,"#Belgaum #COVISHIELD @ BIMS GENERAL PUBLIC - 590001 for AGE 45+(Capacity: 103, Dose 1 - 3 Dose 2: 100 slots) on 05-06-2021","['Belgaum', 'COVISHIELD']",0,0,
-Fri Jun 04 18:21:24 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168510>,1400880381218353152,yasartoshare,Yasar Arafath,RT @imAashish23feb: @PTI_News This seems to be a case of deshdroh ....they are not using covishield or covaxin which means they don't belie…,[],0,2,India
-Fri Jun 04 18:21:16 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168580>,1400880348603555850,Shrishetty03,Shrilata❤,"RT @ResearchWing: Poonawala get permission to manufacture SPUTNIK-V.
-
-Why not focusing on increasing COVISHIELD production?",[],0,10,"Pune, India"
-Fri Jun 04 18:21:12 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1685f0>,1400880331641683969,chinmaygada,Chinmay Gada,"@Prasannasimha sir, if you could help me.
-
-Can a person undergoing rabies vaccine protocol (2 of 5 doses done) take… https://t.co/qDTFjHP8hx",[],0,0,"Mumbai, India"
-Fri Jun 04 18:21:05 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168660>,1400880300930916352,VirajRajpurkar,RV,"What if only vaccined people can resume activities in what may circumstances?
-@COVIDNewsByMIB @coronaviruscare… https://t.co/2Ds6CDstpX",[],0,0,Mumbai
-Fri Jun 04 18:20:42 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1686d0>,1400880202754916352,harvindarKaur2,harvindar Kaur,"RT @utkarshs88: Shorter Dose Gap More Effective Against #DeltaVariant , Says Lancet Study
-The recommendation is at odds with India's recent…",['DeltaVariant'],0,8,"दिल्ली, भारत"
-Fri Jun 04 18:20:32 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168740>,1400880163466874881,Exploringbuddy_,Exploring Buddy Official Pune,"RT @owl_pune: [22:00:10] 411038, 05-06-2021, 990 dose1 at Deenanath Hospital Private, #COVISHIELD Bal Sikshan Mandir English Medium School…",['COVISHIELD'],0,1,"Pune, India"
-Fri Jun 04 18:20:29 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1687b0>,1400880148564434948,GirlEijaz,*Swati* (Eijaz Fan Girl),"RT @EijazKhanFC07: Effect of covishield on @KhanEijaz
-Every one should take vaccine 😂💕
-Loving this active  eijaz 😍♥️♥️♥️
-
-Go watch his new…",[],0,6,
-Fri Jun 04 18:20:20 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168820>,1400880111629471744,aftabstpi,Aftab Khan,"RT @stpiindia: Both #Covishield &amp; #Covaxin show some post-vaccination mild side effects such as injection site pain, headache, fatigue, fev…","['Covishield', 'Covaxin']",0,134,
-Fri Jun 04 18:20:17 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168890>,1400880101177233409,Arani612,Arani,@wildfire__xo AstraZeneca is the product name that's being produced here in Indian Serum Institute... And locally c… https://t.co/DsoK662zzH,[],1,0,Kolkata 
-Fri Jun 04 18:20:16 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168900>,1400880093665259523,India_loveyou,Indian🇮🇳,RT @CovidTrackingIn: B.1.617.2 / delta variant ─ researchers @TheCrick  suggest to reduce vaccine (pfizer) gap due significant loss of anti…,[],0,36,India
-Fri Jun 04 18:19:45 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168970>,1400879965181079552,zo_StydiasJeep,Zo / #StandWithKashmir 🇵🇸,@Shehla_Rashid I was on periods when I took it but no major changes per se. I've taken Covishield as well. I had sl… https://t.co/FanTZ6ilBd,[],0,0,she/her
-Fri Jun 04 18:19:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c1689e0>,1400879962832265217,punevaccinewat1,punevaccinewatch,"[04/06] COVISHIELD (Dose 1 Qty-0, Dose 2 Qty-10, Ages-45+,18+, Dates-04/06, 05/06) available at - Deenanath Hospita… https://t.co/tNLpXylRDa",[],0,0,
-Fri Jun 04 18:19:44 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168a50>,1400879961993465857,punevaccinewat1,punevaccinewatch,"[04/06] COVISHIELD (Dose 1 Qty-8, Dose 2 Qty-0, Ages-45+, Dates-04/06) available at - IISER Pashan Pune, Dr Homi Bh… https://t.co/wwNjYQlEcT",[],0,0,
-Fri Jun 04 18:18:39 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x12c168ac0>,1400879688038469634,KRISYNR,KRISHAN KUMAR,"RT @stpiindia: Both #Covishield &amp; #Covaxin show some post-vaccination mild side effects such as injection site pain, headache, fatigue, fev…","['Covishield', 'Covaxin']",0,134,
+1. Expect more fever, aches afterwards for 1…",[],0,248,"Islamabad, Pakistan"
+Fri Jun 04 18:43:52 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c430>,1400886033542119425,Karannautiyal9,Karan,"@Crazzy9920 @DrawWide @ANI @SerumInstIndia @adarpoonawalla Bhai jab pata na ho to bola mat kar.
+Booster shots isn't… https://t.co/HVX1Z522GZ",[],0,0,Anon
+Fri Jun 04 18:43:51 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c4a0>,1400886032313159681,LaceyLaceyp,Lacey,"RT @abledoc: Verdict out on Delta variant B1.617.2 found first in India
+It is the most immune evasive (beating B1.135) and most transmissib…",[],0,11,"Vancouver, Canada"
+Fri Jun 04 18:43:45 +0000 2021,<generator object get_tweets.<locals>.<genexpr> at 0x134b9c510>,1400886006338002955,Beauvillier18,DyNaMaTriX-Ya-FrEaK,"RT @JustinTrudeau: Given the demand for these vaccines, we’ve also negotiated an option for another 3 million doses of Pfizer’s vaccine to…",[],0,75,"St. Catharines, Ontario"
