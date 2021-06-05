@@ -114,7 +114,7 @@ def process_tweet(status):
     
 # Create a class that inherits TwythonStreamer
 class MyStreamer(TwythonStreamer):
-    tweet_limit=1000
+    tweet_limit=500
     # Received data
     def on_success(self, data):
         MyStreamer.tweet_limit-=1
@@ -144,7 +144,7 @@ class MyStreamer(TwythonStreamer):
                 w.writerow(tweet)
             
             
-def get_tweets_max(query,max_tweets=1000):
+def get_tweets_max(query,max_tweets=500):
     stream = MyStreamer(credentials['CONSUMER_KEY'], credentials['CONSUMER_SECRET'],
                     credentials['ACCESS_TOKEN'], credentials['ACCESS_SECRET'])
     MyStreamer.tweet_limit= max_tweets
