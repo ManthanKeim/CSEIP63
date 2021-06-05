@@ -1,12 +1,12 @@
 from flask import Flask, render_template, request
 import pandas as pd
 from textblob import TextBlob
-from twitterdash.scraper import get_last_month_tweets,get_tweets
+from twitterdash.scraper import get_tweets_max,get_tweets
 from twitterdash.preprocessing import process_text
 from geopy.geocoders import Nominatim
 import geocoder
 import gmplot
-
+import os
 app = Flask(__name__)
 
 
@@ -15,12 +15,16 @@ def index():
     return render_template("landing.html")
 
 
-@app.route("/dash", methods=['POST'])
+@app.route("/dash", methods=['GET','POST'])
 def dash():
     query = request.form.get("query")
-    print("got query of", query)
-#    tweets = get_last_month_tweets(query)
-    tweets = get_tweets(query)
+    option = request.form.get("options")
+    if(option == "Twitter Latest/Mixed"):
+        tweets = get_tweets(query)
+    elif(option == "Twitter Stream"):
+        tweets = get_tweets_max(query,max_tweets=1000)
+    elif(option == "Youtube"):
+        print("To be decided")
 #    columns = ['fullname', 'is_retweet', 'likes',
 #               'replies', 'retweet_id', 'retweeter_userid', 'retweeter_username', 'retweets',
 #               'text', 'timestamp', 'tweet_id', 'user_id', 'username', 'tweet_url']
@@ -77,6 +81,7 @@ def dash():
     tweets_df = tweets_df.drop_duplicates('text')
     tweets_df['text'] = tweets_df['text'].apply(lambda x: x.strip())
     top_tweets = tweets_df.iloc[:3, :].to_dict("records")
+    os.remove("saved_tweets.csv")
 
     return render_template("dashboard.html", query=query, total_tweets=total_tweets,
     total_retweets=total_retweets, total_likes=total_likes, hashtags=zip(responses['hashtags'], styles),

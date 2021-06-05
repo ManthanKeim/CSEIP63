@@ -1,4 +1,4 @@
-from .scraper import get_last_month_tweets
+from .scraper import get_tweets_max
 
 import os
 
