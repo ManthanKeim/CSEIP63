@@ -186,7 +186,7 @@ def youtube_comments(query):
 
     api_service_name = "youtube"
     api_version = "v3"
-    DEVELOPER_KEY = "AIzaSyC0yld0y8Ic_rJ_Jip5EdY3iQr-UrfRR1c"
+    DEVELOPER_KEY = os.getenv("YOUTUBE_API")
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey = DEVELOPER_KEY)
