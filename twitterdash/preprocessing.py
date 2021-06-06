@@ -44,7 +44,7 @@ def process_text(tweets, query_string):
     wc = WordCloud(background_color="white", mask=mask)
     wc.generate_from_frequencies(words)
     # create new cloud image
-    image_name = "twitter_cloud_"+str(int(time()))+".png"
+    image_name = "twitter_cloud.png"
     image_path = os.path.join(CLOUD_PATH, image_name)
     wc.to_file(image_path)
     response['cloud_sign'] = image_name

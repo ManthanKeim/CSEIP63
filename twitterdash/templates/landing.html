@@ -24,7 +24,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-9 mx-auto">
-                    <h1 class="mb-5">Your personal dashboard rightaway!</h1>
+                    <h1 class="mb-5">Your personal social media analytics dashboard rightaway!</h1>
                 </div>
                 <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
                     <form action="/dash" method="POST">
@@ -37,8 +37,14 @@
                                       <option value="Youtube">Youtube</option>
                                     </select>
                                 </div>
-                            
-                            <div class="col-12 col-md-3"><button class="btn btn-primary btn-block btn-lg" type="submit">Analyze</button></div>
+                                <div class="col-12 col-md-3" id="content">
+                            <div class="col-12 col-md-3"><button class="btn btn-primary btn-block btn-lg" type="submit" onclick="loading();">Analyze</button></div>
+                            </div>
+                                <div class="col-12 col-md-3" id="loading" style="width: 35px;
+                                    height: 35px;
+                                    display: none;
+                                    background: url(/static/loader.gif) no-repeat;
+                                    cursor: wait;"></div>
                         </div>
                     </form>
                 </div>
@@ -52,7 +58,7 @@
                     <div class="mx-auto features-icons-item mb-5 mb-lg-0 mb-lg-3">
                         <div class="d-flex features-icons-icon"><i class="far fa-smile m-auto text-primary" data-bs-hover-animate="pulse"></i></div>
                         <h3>Sentiment analysis</h3>
-                        <p class="lead mb-0">Sentiment overview for your brand helps you understand your audience</p>
+                        <p class="lead mb-0">Sentiment overview for your query helps you understand your audience</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -66,7 +72,7 @@
                     <div class="mx-auto features-icons-item mb-5 mb-lg-0 mb-lg-3">
                         <div class="d-flex features-icons-icon"><i class="far fa-thumbs-up m-auto text-primary" data-bs-hover-animate="pulse"></i></div>
                         <h3><strong>Engagement</strong></h3>
-                        <p class="lead mb-0">How people interact with your brand, likes, retweets or tweets</p>
+                        <p class="lead mb-0">How people interact with your query, likes, retweets or tweets</p>
                     </div>
                 </div>
             </div>
