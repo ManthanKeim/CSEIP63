@@ -88,7 +88,7 @@ def dash():
         top_tweets = tweets_df.iloc[:3, :].to_dict("records")
         os.remove("saved_tweets.csv")
 
-        return render_template("dashboard.html", query=query, total_tweets=total_tweets,
+        return render_template("dashboard.html", text1="Twitter",text2="Tweets",text3="Retweets",text4="Likes",text5="Tweets", query=query, total_tweets=total_tweets,
         total_retweets=total_retweets, total_likes=total_likes, hashtags=zip(responses['hashtags'], styles),
          cloud_sign=responses['cloud_sign'], negative_counts=neg_sent, positive_counts=pos_sent, neutral_counts=neu_sent, top_tweets=top_tweets)
          
@@ -148,7 +148,7 @@ def dash():
         top_tweets = tweets_df.iloc[:3, :].to_dict("records")
         os.remove("saved_tweets.csv")
 
-        return render_template("dashboard.html", query=query, total_tweets=total_tweets,
+        return render_template("dashboard.html", text1="Twitter",text2="Tweets",text3="Retweets",text4="Likes",text5="Tweets",query=query, total_tweets=total_tweets,
         total_retweets=total_retweets, total_likes=total_likes, hashtags=zip(responses['hashtags'], styles),
          cloud_sign=responses['cloud_sign'], negative_counts=neg_sent, positive_counts=pos_sent, neutral_counts=neu_sent, top_tweets=top_tweets)
         
@@ -159,9 +159,9 @@ def dash():
         youtube_comments(query)
         tweets_df = pd.read_csv("saved_tweets.csv")
         tweets_text = list(tweets_df['text'])
-        total_tweets = len(tweets_df)
-        total_retweets = tweets_df['retweets'].sum()
-        total_likes = tweets_df['likes'].sum()
+        total_tweets = tweets_df['comments'][1]
+        total_retweets = tweets_df['likes_count'][1]
+        total_likes = tweets_df['dislikes'][1]
         responses = process_text(tweets_text, query)
         styles = ["primary", "success", "info", "warning", "danger", "secondary"]
         
@@ -183,7 +183,7 @@ def dash():
         top_tweets = tweets_df.iloc[:3, :].to_dict("records")
         os.remove("saved_tweets.csv")
 
-        return render_template("dashboard.html", query=query, total_tweets=total_tweets,
+        return render_template("dashboard.html", text1="Youtube",text2="Comments",text3="Likes",text4="Dislikes",text5="Comments", query=query, total_tweets=total_tweets,
         total_retweets=total_retweets, total_likes=total_likes, hashtags=zip(responses['hashtags'], styles),
          cloud_sign=responses['cloud_sign'], negative_counts=neg_sent, positive_counts=pos_sent, neutral_counts=neu_sent, top_tweets=top_tweets)
 

@@ -203,7 +203,7 @@ def youtube_comments(query):
     print("Likes :" + response["likeCount"])
     print("Dislikes :" + response["dislikeCount"])
     print("Comments :" + response["commentCount"])
-    dict_ = {'date': [], 'comment_id':[],'fullname': [],'text': [], 'likes': [], 'retweets':[]}
+    dict_ = {'comments':response["commentCount"],'likes_count':response["likeCount"],'dislikes':response["dislikeCount"],'date': [], 'comment_id':[],'fullname': [],'text': [], 'likes': [], 'retweets':[]}
     for i in range(10):
         request = youtube.commentThreads().list(
             part="snippet",
