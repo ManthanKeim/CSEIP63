@@ -4,10 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Home - Brand</title>
+    <title>CSEIP63 - Major Project</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/'+'bootstrap_landing.min.css') }}">
         <link rel="stylesheet" href="{{ url_for('static', filename='css/'+'select_s.css') }}">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="icon" href="{{url_for('static', filename='img/'+'dtweet.png')}}">
@@ -37,14 +38,10 @@
                                       <option value="Youtube">Youtube</option>
                                     </select>
                                 </div>
-                                <div class="col-12 col-md-3" id="content">
-                            <div class="col-12 col-md-3"><button class="btn btn-primary btn-block btn-lg" type="submit" onclick="loading();">Analyze</button></div>
+                            <div class="col-12 col-md-3">
+                            <div class="col-12 col-md-3"><button id="myBtn" class="btn btn-primary btn-block btn-lg" type="submit" onclick="$('#loading').show();">Analyze</button></div>
                             </div>
-                                <div class="col-12 col-md-3" id="loading" style="width: 35px;
-                                    height: 35px;
-                                    display: none;
-                                    background: url(/static/loader.gif) no-repeat;
-                                    cursor: wait;"></div>
+                            <div id="loading" style="display:none;"><img src="{{ url_for('static',filename='loader.gif') }}" alt="" />Loading!</div>
                         </div>
                     </form>
                 </div>

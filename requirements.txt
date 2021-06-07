@@ -1,0 +1,15 @@
+geopy==2.1.0
+Flask==2.0.1
+twython==3.8.2
+wordcloud==1.8.1
+geocoder==1.38.1
+pandas==1.2.4
+numpy==1.20.3
+gmplot==1.4.1
+textblob==0.15.3
+nltk==3.6.2
+beautifulsoup4==4.9.3
+google_api_python_client==2.7.0
+Pillow==8.2.0
+python-dotenv==0.17.1
+scikit_learn==0.24.2
