@@ -1,1 +1,1 @@
-web: gunicorn app:app --preload --timeout 120 --log-level debug --worker-class gevent
+web: gunicorn app:app --timeout 120
