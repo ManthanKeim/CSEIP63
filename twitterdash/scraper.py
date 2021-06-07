@@ -30,7 +30,6 @@ def get_tweets(query):
     dict_ = {'date': [],'url':[], 'tweet_id':[],'fullname': [],'user_id':[],'text': [],'hashtags':[], 'likes': [], 'retweets':[], 'location':[]}
     for status in python_tweets.search(**query1, tweet_mode='extended')['statuses']:
         dict_['fullname'].append(status['user']['screen_name'])
-        dict_['url'].append(i for i in status['entities']['urls'])
         dict_['tweet_id'].append(status['id_str'])
         dict_['user_id'].append(status['user']['name'])
         dict_['date'].append(status['created_at'])
@@ -39,6 +38,7 @@ def get_tweets(query):
         dict_['likes'].append(status['favorite_count'])
         dict_['retweets'].append(status['retweet_count'])
         dict_['location'].append(status['user']['location'])
+        dict_['url'].append("https://twitter.com/"+ str(status['id_str'])+ "/status/" + str(status['id_str']))
     #
     ## Structure data in a pandas DataFrame for easier manipulation
     df = pd.DataFrame(dict_)
