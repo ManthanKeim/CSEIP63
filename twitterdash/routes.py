@@ -38,29 +38,29 @@ def dash():
         tweets = get_tweets(query)
         tweets_df = pd.read_csv("saved_tweets.csv")
         #uncomment for map
-#        coordinates = {'latitude': [], 'longitude': []}
-#        for count, user_loc in enumerate(tweets_df.location):
-#            try:
-#                if(user_loc.isspace()):
-#                    print("true")
-#                location = geocoder.arcgis(user_loc)
-#
-#                # If coordinates are found for location
-#                if location:
-#                    coordinates['latitude'].append(location.y)
-#                    coordinates['longitude'].append(location.x)
-#
-#            # If too many connection requests
-#            except:
-#                pass
-#
-#        # Instantiate and center a GoogleMapPlotter object to show our map
-#        gmap = gmplot.GoogleMapPlotter(30, 0, 3,apikey="AIzaSyC0yld0y8Ic_rJ_Jip5EdY3iQr-UrfRR1c")
-#        # Insert points on the map passing a list of latitudes and longitudes
-#        gmap.heatmap(coordinates['latitude'], coordinates['longitude'], radius=20)
-#        #
-#        ## Save the map to html file
-#        gmap.draw("twitterdash/static/css/python_heatmap.html")
+        coordinates = {'latitude': [], 'longitude': []}
+        for count, user_loc in enumerate(tweets_df.location):
+            try:
+                if(user_loc.isspace()):
+                    print("true")
+                location = geocoder.arcgis(user_loc)
+
+                # If coordinates are found for location
+                if location:
+                    coordinates['latitude'].append(location.y)
+                    coordinates['longitude'].append(location.x)
+
+            # If too many connection requests
+            except:
+                pass
+
+        # Instantiate and center a GoogleMapPlotter object to show our map
+        gmap = gmplot.GoogleMapPlotter(30, 0, 3,apikey="AIzaSyC0yld0y8Ic_rJ_Jip5EdY3iQr-UrfRR1c")
+        # Insert points on the map passing a list of latitudes and longitudes
+        gmap.heatmap(coordinates['latitude'], coordinates['longitude'], radius=20)
+        #
+        ## Save the map to html file
+        gmap.draw("twitterdash/static/css/python_heatmap.html")
         
         
         tweets_text = list(tweets_df['text'])
