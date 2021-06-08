@@ -280,11 +280,11 @@ def visualizations(tweet_data):
         cl = list(df['likes'])
         l.extend(cl)
         n.extend([name] * len(cl))
-    comments['subreddit'] = pd.Series(n)
+    comments['subreddt'] = pd.Series(n)
     comments['score'] = pd.Series(l)
 
     fig, ax = plt.subplots(figsize=(20, 20))
-    sns.violinplot(x='score', y='subreddit', data=comments, scale='width', inner='box', ax=ax);
+    sns.violinplot(x='score', y='subreddt', data=comments, scale='width', inner='box', ax=ax);
     plt.savefig("twitterdash/static/img/tweet5.png")
 
 
