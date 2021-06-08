@@ -39,7 +39,7 @@ def dash():
         if(option == "Twitter Latest/Mixed"):
             tweets = get_tweets(query)
             tweets_df = pd.read_csv("saved_tweets.csv")
-            visualizations(tweets_df)
+#            visualizations(tweets_df)
             #uncomment for map
 #            coordinates = {'latitude': [], 'longitude': []}
 #            for count, user_loc in enumerate(tweets_df.location):
@@ -99,7 +99,7 @@ def dash():
         elif(option == "Twitter Stream"):
             tweets = get_tweets_max(query,max_tweets=500)
             tweets_df = pd.read_csv("saved_tweets.csv")
-            visualizations(tweets_df)
+#            visualizations(tweets_df)
             #uncomment for map
     #        coordinates = {'latitude': [], 'longitude': []}
     #        for count, user_loc in enumerate(tweets_df.location):
