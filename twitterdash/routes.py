@@ -4,6 +4,7 @@ from textblob import TextBlob
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk.corpus import stopwords
 from twitterdash.scraper import get_tweets_max,get_tweets,youtube_comments
+from twitterdash.visu import visualizations
 from twitterdash.preprocessing import process_text
 from geopy.geocoders import Nominatim
 from bs4 import BeautifulSoup
@@ -38,30 +39,31 @@ def dash():
         if(option == "Twitter Latest/Mixed"):
             tweets = get_tweets(query)
             tweets_df = pd.read_csv("saved_tweets.csv")
+            visualizations(tweets_df)
             #uncomment for map
-    #        coordinates = {'latitude': [], 'longitude': []}
-    #        for count, user_loc in enumerate(tweets_df.location):
-    #            try:
-    #                if(user_loc.isspace()):
-    #                    print("true")
-    #                location = geocoder.arcgis(user_loc)
-    #
-    #                # If coordinates are found for location
-    #                if location:
-    #                    coordinates['latitude'].append(location.y)
-    #                    coordinates['longitude'].append(location.x)
-    #
-    #            # If too many connection requests
-    #            except:
-    #                pass
-    #
-    #        # Instantiate and center a GoogleMapPlotter object to show our map
-    #        gmap = gmplot.GoogleMapPlotter(30, 0, 3,apikey="AIzaSyC0yld0y8Ic_rJ_Jip5EdY3iQr-UrfRR1c")
-    #        # Insert points on the map passing a list of latitudes and longitudes
-    #        gmap.heatmap(coordinates['latitude'], coordinates['longitude'], radius=20)
-    #        #
-    #        ## Save the map to html file
-    #        gmap.draw("twitterdash/static/css/python_heatmap.html")
+#            coordinates = {'latitude': [], 'longitude': []}
+#            for count, user_loc in enumerate(tweets_df.location):
+#                try:
+#                    if(user_loc.isspace()):
+#                        print("true")
+#                    location = geocoder.arcgis(user_loc)
+#
+#                    # If coordinates are found for location
+#                    if location:
+#                        coordinates['latitude'].append(location.y)
+#                        coordinates['longitude'].append(location.x)
+#
+#                # If too many connection requests
+#                except:
+#                    pass
+#
+#            # Instantiate and center a GoogleMapPlotter object to show our map
+#            gmap = gmplot.GoogleMapPlotter(30, 0, 3,apikey="AIzaSyC0yld0y8Ic_rJ_Jip5EdY3iQr-UrfRR1c")
+#            # Insert points on the map passing a list of latitudes and longitudes
+#            gmap.heatmap(coordinates['latitude'], coordinates['longitude'], radius=20)
+#            #
+#            ## Save the map to html file
+#            gmap.draw("twitterdash/static/css/python_heatmap.html")
             
             
             tweets_text = list(tweets_df['text'])
@@ -97,7 +99,7 @@ def dash():
         elif(option == "Twitter Stream"):
             tweets = get_tweets_max(query,max_tweets=500)
             tweets_df = pd.read_csv("saved_tweets.csv")
-        
+            visualizations(tweets_df)
             #uncomment for map
     #        coordinates = {'latitude': [], 'longitude': []}
     #        for count, user_loc in enumerate(tweets_df.location):
@@ -187,4 +189,6 @@ def dash():
             return render_template("dashboard.html", text1="Youtube",text2="Comments",text3="Likes",text4="Dislikes",text5="Comments", query=query, total_tweets=total_tweets, icon1="fas fa-comments fa-2x text-gray-300",icon2="fas fa-thumbs-up fa-2x text-gray-300",icon3="fas fa-thumbs-down fa-2x text-gray-300",
             total_retweets=total_retweets, total_likes=total_likes, hashtags=zip(responses['hashtags'], styles),
              cloud_sign=responses['cloud_sign'], negative_counts=neg_sent, positive_counts=pos_sent, neutral_counts=neu_sent, top_tweets=top_tweets)
-    except: return render_template("error.html")
+    except Exception as e:
+        print(e)
+        return render_template("error.html")
