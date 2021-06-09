@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+base/
+yt_comments.csv
+data.csv
+model.py
+model.pkl
+CSEIP63.pptx
 
 # C extensions
 *.so

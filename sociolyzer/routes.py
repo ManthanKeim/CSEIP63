@@ -91,7 +91,7 @@ def dash():
             top_tweets = tweets_df.iloc[:3, :].to_dict("records")
             os.remove("saved_tweets.csv")
 
-            return render_template("dashboard.html", text1="Twitter",text2="Tweets",text3="Retweets",text4="Likes",text5="Tweets", query=query, total_tweets=total_tweets, icon1="fab fa-twitter fa-2x text-gray-300",icon2="fas fa-retweet fa-2x text-gray-300",icon3="fas fa-heart fa-2x text-gray-300",
+            return render_template("dashboard.html", text1="Twitter",text2="Tweets",text3="Retweets",text4="Likes",text5="Tweets",text6="Tweets",text7="Retweets", query=query, total_tweets=total_tweets, icon1="fab fa-twitter fa-2x text-gray-300",icon2="fas fa-retweet fa-2x text-gray-300",icon3="fas fa-heart fa-2x text-gray-300",
             total_retweets=total_retweets, total_likes=total_likes, hashtags=zip(responses['hashtags'], styles),
              cloud_sign=responses['cloud_sign'], negative_counts=neg_sent, positive_counts=pos_sent, neutral_counts=neu_sent, top_tweets=top_tweets)
              
@@ -121,10 +121,10 @@ def dash():
 #            gmap = gmplot.GoogleMapPlotter(30, 0, 3,apikey="AIzaSyC0yld0y8Ic_rJ_Jip5EdY3iQr-UrfRR1c")
 #            # Insert points on the map passing a list of latitudes and longitudes
 #            gmap.heatmap(coordinates['latitude'], coordinates['longitude'], radius=20)
-#            #
-#            ## Save the map to html file
+            #
+##             Save the map to html file
 #            gmap.draw("sociolyzer/static/css/python_heatmap.html")
-            
+#
             
             tweets_text = list(tweets_df['text'])
             total_tweets = len(tweets_df)
@@ -151,7 +151,7 @@ def dash():
             top_tweets = tweets_df.iloc[:3, :].to_dict("records")
             os.remove("saved_tweets.csv")
 
-            return render_template("dashboard.html", text1="Twitter",text2="Tweets",text3="Retweets",text4="Likes",text5="Tweets",query=query, total_tweets=total_tweets, icon1="fab fa-twitter fa-2x text-gray-300",icon2="fas fa-retweet fa-2x text-gray-300",icon3="fas fa-heart fa-2x text-gray-300",
+            return render_template("dashboard.html", text1="Twitter",text2="Tweets",text3="Retweets",text4="Likes",text5="Tweets",text6="Tweets",text7="Retweets",query=query, total_tweets=total_tweets, icon1="fab fa-twitter fa-2x text-gray-300",icon2="fas fa-retweet fa-2x text-gray-300",icon3="fas fa-heart fa-2x text-gray-300",
             total_retweets=total_retweets, total_likes=total_likes, hashtags=zip(responses['hashtags'], styles),
              cloud_sign=responses['cloud_sign'], negative_counts=neg_sent, positive_counts=pos_sent, neutral_counts=neu_sent, top_tweets=top_tweets)
             
@@ -187,7 +187,7 @@ def dash():
             top_tweets = tweets_df.iloc[:3, :].to_dict("records")
             os.remove("saved_tweets.csv")
 
-            return render_template("dashboard.html", text1="Youtube",text2="Comments",text3="Likes",text4="Dislikes",text5="Comments", query=query, total_tweets=total_tweets, icon1="fas fa-comments fa-2x text-gray-300",icon2="fas fa-thumbs-up fa-2x text-gray-300",icon3="fas fa-thumbs-down fa-2x text-gray-300",
+            return render_template("dashboard.html", text1="Youtube",text2="Comments",text3="Likes",text4="Dislikes",text5="Comments",text6="Comments",text7="Likes", query=query, total_tweets=total_tweets, icon1="fas fa-comments fa-2x text-gray-300",icon2="fas fa-thumbs-up fa-2x text-gray-300",icon3="fas fa-thumbs-down fa-2x text-gray-300",
             total_retweets=total_retweets, total_likes=total_likes, hashtags=zip(responses['hashtags'], styles),
              cloud_sign=responses['cloud_sign'], negative_counts=neg_sent, positive_counts=pos_sent, neutral_counts=neu_sent, top_tweets=top_tweets)
     except Exception as e:

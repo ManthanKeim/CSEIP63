@@ -237,7 +237,7 @@ def visualizations(tweet_data):
     ax = sns.distplot(df["title_length"], kde=False, hist_kws={'alpha': 1}, color="#0747A6")
 
     ax.set_title(name, fontdict={'size': 16}, pad=14)
-    ax.set(xlabel="tweets length", ylabel="Number of tweets")
+    ax.set(xlabel="tweets/comments length", ylabel="Number of tweets/comments")
     plt.savefig("sociolyzer/static/img/tweet2.png")
 
     fig = plt.subplots(figsize=(20,20))
@@ -247,7 +247,7 @@ def visualizations(tweet_data):
     #for ax, df, name in zip(axes.flat, tweets, subreddit_names):
     ax = sns.distplot(df["retweets"], kde=False, hist_kws={'alpha': 1}, color="#0747A6")
     ax.set_title(name, fontdict={'size': 16}, pad=14)
-    ax.set(xlabel="Number of retweets", ylabel="Number of tweets")
+    ax.set(xlabel="Number of retweets/likes", ylabel="Number of tweets/comments")
     plt.savefig("sociolyzer/static/img/tweet7.png")
 
     medians = []
@@ -256,8 +256,8 @@ def visualizations(tweet_data):
 
     plt.rc('axes', labelpad=16)
     fig, ax = plt.subplots(figsize=(14,8))
-    d = pd.DataFrame({'tweets': subreddit_names, 'retweet_median': medians})
-    sns.barplot(x="tweets", y="retweet_median", data=d, palette=sns.cubehelix_palette(n_colors=24, reverse=True), ax=ax);
+    d = pd.DataFrame({'tweets/comments': subreddit_names, 'retweet_median/likes_median': medians})
+    sns.barplot(x="tweets/comments", y="retweet_median/likes_median", data=d, palette=sns.cubehelix_palette(n_colors=24, reverse=True), ax=ax);
     plt.savefig("sociolyzer/static/img/tweet3.png")
     ax.set(xlabel="Tweets", ylabel="Median");
     ax.set_xticklabels(ax.get_xticklabels(), rotation=90);
@@ -270,21 +270,21 @@ def visualizations(tweet_data):
     ax2 = sns.distplot(df["retweets"], kde=False, hist_kws={'alpha': 0.5}, color="#FF5630")
 
     ax2.set_title(name, fontdict={'size': 16}, pad=14)
-    ax2.set(xlabel="Number of likes/retweets", ylabel="Number of tweets")
+    ax2.set(xlabel="Number of likes/retweets", ylabel="Number of tweets/comments")
     plt.savefig("sociolyzer/static/img/tweet4.png")
 
-    comments = pd.DataFrame(columns=['subreddit', 'score'])
+    comments = pd.DataFrame(columns=['tweet/comment', 'score'])
     n = []
     l = []
     for df, name in zip(tweets, subreddit_names):
         cl = list(df['likes'])
         l.extend(cl)
         n.extend([name] * len(cl))
-    comments['subreddt'] = pd.Series(n)
+    comments['tweet/comment'] = pd.Series(n)
     comments['score'] = pd.Series(l)
 
     fig, ax = plt.subplots(figsize=(20, 20))
-    sns.violinplot(x='score', y='subreddt', data=comments, scale='width', inner='box', ax=ax);
+    sns.violinplot(x='score', y='tweet/comment', data=comments, scale='width', inner='box', ax=ax);
     plt.savefig("sociolyzer/static/img/tweet5.png")
 
 
