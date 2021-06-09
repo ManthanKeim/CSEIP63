@@ -4,7 +4,7 @@ from textblob import TextBlob
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk.corpus import stopwords
 from twitterdash.scraper import get_tweets_max,get_tweets,youtube_comments
-from twitterdash.visu import visualizations
+#from twitterdash.visu import visualizations
 from twitterdash.preprocessing import process_text
 from geopy.geocoders import Nominatim
 from bs4 import BeautifulSoup
@@ -39,7 +39,7 @@ def dash():
         if(option == "Twitter Latest/Mixed"):
             tweets = get_tweets(query)
             tweets_df = pd.read_csv("saved_tweets.csv")
-            visualizations(tweets_df)
+#            visualizations(tweets_df)
             #uncomment for map
             coordinates = {'latitude': [], 'longitude': []}
             for count, user_loc in enumerate(tweets_df.location):
@@ -99,7 +99,7 @@ def dash():
         elif(option == "Twitter Stream"):
             tweets = get_tweets_max(query,max_tweets=500)
             tweets_df = pd.read_csv("saved_tweets.csv")
-            visualizations(tweets_df)
+#            visualizations(tweets_df)
             #uncomment for map
 #            coordinates = {'latitude': [], 'longitude': []}
 #            for count, user_loc in enumerate(tweets_df.location):
@@ -161,7 +161,7 @@ def dash():
         elif(option == "Youtube"):
             youtube_comments(query)
             tweets_df = pd.read_csv("saved_tweets.csv")
-            visualizations(tweets_df)
+#            visualizations(tweets_df)
             tweets_text = list(tweets_df['text'])
             total_tweets = tweets_df['comments'][1]
             total_retweets = tweets_df['likes_count'][1]
