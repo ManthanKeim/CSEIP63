@@ -39,7 +39,7 @@
                                     </select>
                                 </div>
                             <div class="col-12 col-md-3">
-                            <div class="col-12 col-md-3"><button id="myBtn" class="btn btn-primary btn-block btn-lg" type="submit" onclick="$('#loading').show();">Analyze</button></div>
+                            <div class="col-12 col-md-3"><button id="myBtn" class="btn btn-primary btn-block btn-lg" type="submit" onSubmit="$('#loading').show();">Analyze</button></div>
                             </div>
                             <div id="loading" style="display:none;"><img src="{{ url_for('static',filename='loader.gif') }}" alt="" />Loading!</div>
                         </div>
