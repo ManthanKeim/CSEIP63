@@ -3,9 +3,9 @@ import pandas as pd
 from textblob import TextBlob
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk.corpus import stopwords
-from twitterdash.scraper import get_tweets_max,get_tweets,youtube_comments
-#from twitterdash.visu import visualizations
-from twitterdash.preprocessing import process_text
+from sociolyzer.scraper import get_tweets_max,get_tweets,youtube_comments
+#from sociolyzer.visu import visualizations
+from sociolyzer.preprocessing import process_text
 from geopy.geocoders import Nominatim
 from bs4 import BeautifulSoup
 import geocoder
@@ -63,7 +63,7 @@ def dash():
 #            gmap.heatmap(coordinates['latitude'], coordinates['longitude'], radius=20)
 #            #
 #            ## Save the map to html file
-#            gmap.draw("twitterdash/static/css/python_heatmap.html")
+#            gmap.draw("sociolyzer/static/css/python_heatmap.html")
             
             
             tweets_text = list(tweets_df['text'])
@@ -123,7 +123,7 @@ def dash():
 #            gmap.heatmap(coordinates['latitude'], coordinates['longitude'], radius=20)
 #            #
 #            ## Save the map to html file
-#            gmap.draw("twitterdash/static/css/python_heatmap.html")
+#            gmap.draw("sociolyzer/static/css/python_heatmap.html")
             
             
             tweets_text = list(tweets_df['text'])
