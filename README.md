@@ -1,3 +1,2 @@
-#CSEIP63
+Motivation from: https://github.com/AliAbdelaal/twitter-dash
 
-Major project submission for: Manthan Keim, Mayank Kochar, Nitish Negi
